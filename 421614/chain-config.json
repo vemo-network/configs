@@ -1,0 +1,42 @@
+{
+  "created_at": "2024-08-14T08:31:48.020Z",
+  "updated_at": "2024-08-14T08:31:48.020Z",
+  "is_deleted": 0,
+  "id": 7,
+  "name": "ARB-testnet",
+  "chainId": 421614,
+  "config": {
+    "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
+    "CHAIN_NAME": "ARB Chain",
+    "PROVIDER_URL": "https://arb-sepolia.g.alchemy.com/v2/-KJzJWstgeScdLL4vDaDfJTjKZUDKOgj",
+    "WALLET_FACTORY": "0xe2eBB6c62469f5afc0134DAbc9dD0e77F16eFba3",
+    "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
+    "NATIVE_CURRENCY": {
+      "name": "ARB Chain",
+      "symbol": "ARB",
+      "decimals": "18"
+    },
+    "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-arbitrum-testnet"
+  },
+  "status": 1,
+  "tag": 0,
+  "collection": {
+    "created_at": "2024-08-14T08:32:07.964Z",
+    "updated_at": "2024-08-14T08:32:07.964Z",
+    "is_deleted": 0,
+    "id": 25,
+    "name": "Vemo Smart Wallet",
+    "symbol": "VSW",
+    "chainId": 421614,
+    "description": null,
+    "thumbnail": null,
+    "contractAddress": "0x8199f4c7a378b7cccd6af8c3bbcf0c68a353daeb",
+    "creatorAddress": null,
+    "ownerAddress": null,
+    "dappURI": "vemowallet",
+    "status": null,
+    "decimals": null,
+    "wallet_theme_image": "https://s3.ap-southeast-1.amazonaws.com/static1.vemo.network/icon/vemo_wallet/vemo_theme_bnb.png",
+    "wallet_description": "This NFT signifies the ownership of an account containing crypto assets or off-chain points, known as a Smart Wallet following the ERC-6551 standard. Only the NFT holder has complete control over the assets in the Wallet. Additionally, they can transfer the Wallet to others by transferring or selling the NFT on the secondary market.\n \n The Smart Wallet address linked to this NFT: TBA_ADDRESS \n \n For more details, please visit https://vemo.network/ \n \n ⚠️ DISCLAIMER: It is highly recommended to verify the assets in the Smart Wallet on the Vemo Network website before making any decisions."
+  }
+}

@@ -24,29 +24,22 @@
   "status": 1,
   "tag": 0,
   "collection": {
-    "created_at": "2024-08-06T11:17:02.249Z",
-    "updated_at": "2024-08-06T11:17:02.249Z",
+    "created_at": "2024-08-07T02:58:01.068Z",
+    "updated_at": "2024-08-08T10:15:43.960Z",
     "is_deleted": 0,
-    "id": 2,
-    "name": "BNB",
+    "id": 6,
+    "name": "Vemo Smart Wallet",
+    "symbol": "VSW",
     "chainId": 56,
-    "config": {
-      "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
-      "CHAIN_NAME": "BNB Chain",
-      "PROVIDER_URL": "https://bsc-dataseed3.bnbchain.org",
-      "WALLET_FACTORY": "0x5A72A673f0621dC3b39B59084a72b95706E75EFd",
-      "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
-      "NATIVE_CURRENCY": {
-        "name": "BNB Chain",
-        "symbol": "BNB",
-        "decimals": "18"
-      },
-      "VOUCHER_FACTORY": "0x9869524fd160fe3adDA6218883B6526c0977D3a5",
-      "SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-bnb",
-      "VESTING_POOL_FACTORY": "0x29f118a2Eb3c7754847a104ABeDF7776Ee5D4C80",
-      "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-bnb"
-    },
-    "status": 1,
-    "tag": 0
+    "description": null,
+    "thumbnail": null,
+    "contractAddress": "0x604873f647c6888c109e9fb28ea32de82d97806a",
+    "creatorAddress": null,
+    "ownerAddress": null,
+    "dappURI": "vemowallet",
+    "status": null,
+    "decimals": null,
+    "wallet_theme_image": "https://s3.ap-southeast-1.amazonaws.com/static1.vemo.network/icon/vemo_wallet/vemo_theme_bnb.png",
+    "wallet_description": "This NFT signifies the ownership of an account containing crypto assets or off-chain points, known as a Smart Wallet following the ERC-6551 standard. Only the NFT holder has complete control over the assets in the Wallet. Additionally, they can transfer the Wallet to others by transferring or selling the NFT on the secondary market.\n \n The Smart Wallet address linked to this NFT: TBA_ADDRESS \n \n For more details, please visit https://vemo.network/ \n \n ⚠️ DISCLAIMER: It is highly recommended to verify the assets in the Smart Wallet on the Vemo Network website before making any decisions."
   }
 }

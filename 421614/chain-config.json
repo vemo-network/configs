@@ -17,9 +17,17 @@
       "decimals": "18"
     },
     "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-arbitrum-testnet",
-    "FARMER_CONTRACTS":[{
-      "contractAddress": "0x8199f4c7a378b7cccd6af8c3bbcf0c68a353daeb"
-    }]
+    "DELEGATION_CONTRACTS": [
+      {
+        "contractAddress": "0x8199f4c7a378b7cccd6af8c3bbcf0c68a353daeb"
+      }
+    ],
+    "FARMER_CONTRACTS": [
+      {
+        "address": "0xEc7360041E3d082e5D475B2bE46Ec0e5C205C990"
+      }
+    ]
+    
   },
   "status": 1,
   "tag": 0,

@@ -19,7 +19,7 @@
     "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-arbitrum-testnet",
     "DELEGATION_CONTRACTS": [
       {
-        "contractAddress": "0x8199f4c7a378b7cccd6af8c3bbcf0c68a353daeb"
+        "contractAddress": "0x7F4282181243069B55379312196be53566a5FE03"
       }
     ],
     "FARMER_CONTRACTS": [

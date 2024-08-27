@@ -31,6 +31,11 @@
         "name": "Farmer collection",
         "isDelegate": true
       }
+    ],
+    "FARMER_CONTRACTS": [
+      {
+        "address": "0xEc7360041E3d082e5D475B2bE46Ec0e5C205C990"
+      }
     ]
   },
   "status": 1,

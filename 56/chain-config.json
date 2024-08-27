@@ -19,7 +19,22 @@
     "VOUCHER_FACTORY": "0x9869524fd160fe3adDA6218883B6526c0977D3a5",
     "SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-bnb",
     "VESTING_POOL_FACTORY": "0x29f118a2Eb3c7754847a104ABeDF7776Ee5D4C80",
-    "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-bnb"
+    "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-bnb",
+    "NFT_CONTRACTS": [
+      {
+        "contractAddress": "0x604873F647c6888c109e9fB28ea32De82D97806a",
+        "name": "Vemo Smart Wallet"
+      },
+      {
+        "contractAddress": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB",
+        "name": "Vemo Smart Wallet"
+      },
+      {
+        "contractAddress": "0x7F4282181243069B55379312196be53566a5FE03",
+        "name": "Farmer collection",
+        "isDelegate": true
+      }
+    ]
   },
   "status": 1,
   "tag": 0,

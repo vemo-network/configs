@@ -22,7 +22,22 @@
   "SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-avaxtest",
   "VESTING_POOL_FACTORY": "0x5ef5D34bcbCefdFa6442aD7672a4147A98C08698",
   "AVEX_VOUCHER_COLLECTION": "0xa7de7dcf48bc83d98e8df1b6f4e25d99eb5077bc",
-  "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/githubdnft/wallet-indexer-avaxtest"
+  "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/githubdnft/wallet-indexer-avaxtest",
+  "NFT_CONTRACTS": [
+    {
+      "contractAddress": "0x604873F647c6888c109e9fB28ea32De82D97806a",
+      "name": "Vemo Smart Wallet"
+    },
+    {
+      "contractAddress": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB",
+      "name": "Vemo Smart Wallet"
+    },
+    {
+      "contractAddress": "0x7F4282181243069B55379312196be53566a5FE03",
+      "name": "Farmer collection",
+      "isDelegate": true
+    }
+  ]
   },
   "status": 1,
   "tag": 0,

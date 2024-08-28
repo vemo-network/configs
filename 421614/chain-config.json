@@ -20,6 +20,9 @@
     "DELEGATION_CONTRACTS": [
       {
         "contractAddress": "0x7F4282181243069B55379312196be53566a5FE03"
+      },
+      {
+        "contractAddress": "0x50CabF62cc552D43cEA103E363E0E427e24CBC45"
       }
     ],
     "FARMER_CONTRACTS": [

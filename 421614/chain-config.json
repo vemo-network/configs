@@ -23,7 +23,7 @@
         "termAddress": "0xc97A3CC29D383cE05E7DcA3fAd3e0B8DE9260d20"
       },
       {
-        "contractAddress": "0x50CabF62cc552D43cEA103E363E0E427e24CBC45",
+        "contractAddress": "0x2C3E236EAE4e8E0a5901a088ABD2bddC33F7D014",
         "termAddress": "0xc97A3CC29D383cE05E7DcA3fAd3e0B8DE9260d20"
       }
     ],
@@ -42,7 +42,7 @@
         "name": "Vemo Smart Wallet"
       },
       {
-        "contractAddress": "0x7F4282181243069B55379312196be53566a5FE03",
+        "contractAddress": "0x2C3E236EAE4e8E0a5901a088ABD2bddC33F7D014",
         "name": "Farmer collection",
         "isDelegate": true
       }

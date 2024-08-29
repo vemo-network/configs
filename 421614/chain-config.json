@@ -42,6 +42,11 @@
         "name": "Vemo Smart Wallet"
       },
       {
+        "contractAddress": "0x7F4282181243069B55379312196be53566a5FE03",
+        "name": "Farmer collection",
+        "isDelegate": true
+      },
+      {
         "contractAddress": "0x2C3E236EAE4e8E0a5901a088ABD2bddC33F7D014",
         "name": "Farmer collection",
         "isDelegate": true

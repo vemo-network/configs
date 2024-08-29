@@ -61,5 +61,17 @@
     "decimals": null,
     "wallet_theme_image": "https://s3.ap-southeast-1.amazonaws.com/static1.vemo.network/icon/vemo_wallet/vemo_theme_bnb.png",
     "wallet_description": "This NFT signifies the ownership of an account containing crypto assets or off-chain points, known as a Smart Wallet following the ERC-6551 standard. Only the NFT holder has complete control over the assets in the Wallet. Additionally, they can transfer the Wallet to others by transferring or selling the NFT on the secondary market.\n \n The Smart Wallet address linked to this NFT: TBA_ADDRESS \n \n For more details, please visit https://vemo.network/ \n \n ⚠️ DISCLAIMER: It is highly recommended to verify the assets in the Smart Wallet on the Vemo Network website before making any decisions."
+  },
+  "logConfig": {
+    "fromBlock": 40000000,
+    "url": "https://api-testnet.bscscan.com/api",
+    "rpc": "https://data-seed-prebsc-1-s1.bnbchain.org:8545",
+    "collectionAddress": ["0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB"],
+    "listNFTContracts": [
+      {
+        "contractAddress": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB",
+        "name": "Vemo "
+      }
+    ]
   }
 }

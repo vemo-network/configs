@@ -66,5 +66,37 @@
     "decimals": null,
     "wallet_theme_image": "https://s3.ap-southeast-1.amazonaws.com/static1.vemo.network/icon/vemo_wallet/vemo_theme_bnb.png",
     "wallet_description": "This NFT signifies the ownership of an account containing crypto assets or off-chain points, known as a Smart Wallet following the ERC-6551 standard. Only the NFT holder has complete control over the assets in the Wallet. Additionally, they can transfer the Wallet to others by transferring or selling the NFT on the secondary market.\n \n The Smart Wallet address linked to this NFT: TBA_ADDRESS \n \n For more details, please visit https://vemo.network/ \n \n ⚠️ DISCLAIMER: It is highly recommended to verify the assets in the Smart Wallet on the Vemo Network website before making any decisions."
+  },
+  "logConfig": {
+    "fromBlock": 40000000,
+    "url": "https://api-sepolia.arbiscan.io/api",
+    "rpc": "https://sepolia-rollup.arbitrum.io/rpc",
+    "collectionAddress": [
+      "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB",
+      "0x7F4282181243069B55379312196be53566a5FE03",
+      "0x50CabF62cc552D43cEA103E363E0E427e24CBC45"
+    ],
+    "listNFTContracts": [
+      {
+        "contractAddress": "0x604873F647c6888c109e9fB28ea32De82D97806a",
+        "name": "Vemo "
+      },
+      {
+        "contractAddress": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB",
+        "name": "Vemo "
+      },
+      {
+        "contractAddress": "0x7F4282181243069B55379312196be53566a5FE03",
+        "name": "vePENDLE Voter",
+        "isDelegated": true,
+        "issuer": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB"
+      },
+      {
+        "contractAddress": "0x50CabF62cc552D43cEA103E363E0E427e24CBC45",
+        "name": "vePENDLE Voter",
+        "isDelegated": true,
+        "issuer": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB"
+      }
+    ]
   }
 }

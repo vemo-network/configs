@@ -81,11 +81,12 @@
     "collectionAddress": [
       "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB",
       "0x7F4282181243069B55379312196be53566a5FE03",
-      "0x50CabF62cc552D43cEA103E363E0E427e24CBC45"
+      "0x50CabF62cc552D43cEA103E363E0E427e24CBC45",
+      "0xD66C029A41cD75faD329FcC15D0E1F9AaF2C688f"
     ],
     "listNFTContracts": [
       {
-        "contractAddress": "0x604873F647c6888c109e9fB28ea32De82D97806a",
+        "contractAddress": "0xD66C029A41cD75faD329FcC15D0E1F9AaF2C688f",
         "name": "Vemo "
       },
       {

@@ -72,6 +72,13 @@
         "contractAddress": "0x604873F647c6888c109e9fB28ea32De82D97806a",
         "name": "Vemo "
       }
-    ]
+    ],
+    "apiKeys": [
+      "AGDY1URS8EMBGZDTY8Z5XCAHN7SIDNT24M",
+      "C66RIA1Q7ANCNN64EDVN17CBCQ6XNI3XX2",
+      "WIJU37BQD53QZFT9J1MID6TUEU543N7QEK"
+    ],
+    "rateLimitCount": 5,
+    "rateLimitDuration": 1000
   }
 }

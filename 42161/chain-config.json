@@ -62,13 +62,6 @@
   "logConfig": {
     "fromBlock": 222732688,
     "url": "https://api.arbiscan.io/api",
-    "rpc": "https://arb1.arbitrum.io/rpc",
-    "collectionAddress": ["0x604873F647c6888c109e9fB28ea32De82D97806a"],
-    "listNFTContracts": [
-      {
-        "contractAddress": "0x604873F647c6888c109e9fB28ea32De82D97806a",
-        "name": "Vemo "
-      }
-    ]
+    "rpc": "https://arb1.arbitrum.io/rpc"
   }
 }

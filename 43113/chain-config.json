@@ -51,13 +51,6 @@
   "logConfig": {
     "fromBlock": 40000000,
     "url": "https://api-testnet.snowtrace.io",
-    "rpc": "https://api.avax-test.network/ext/bc/C/rpc",
-    "collectionAddress": ["0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB"],
-    "listNFTContracts": [
-      {
-        "contractAddress": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB",
-        "name": "Vemo "
-      }
-    ]
+    "rpc": "https://api.avax-test.network/ext/bc/C/rpc"
   }
 }

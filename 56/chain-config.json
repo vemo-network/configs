@@ -66,13 +66,6 @@
     "fromBlock": 40000000,
     "url": "https://api.bscscan.com/api",
     "rpc": "https://rpc.ankr.com/bsc",
-    "collectionAddress": ["0x604873F647c6888c109e9fB28ea32De82D97806a"],
-    "listNFTContracts": [
-      {
-        "contractAddress": "0x604873F647c6888c109e9fB28ea32De82D97806a",
-        "name": "Vemo "
-      }
-    ],
     "apiKeys": [
       "AGDY1URS8EMBGZDTY8Z5XCAHN7SIDNT24M",
       "C66RIA1Q7ANCNN64EDVN17CBCQ6XNI3XX2",

@@ -63,13 +63,6 @@
     "fromBlock": 20000000,
     "url": "https://api.etherscan.io/api",
     "rpc": "https://cloudflare-eth.com",
-    "collectionAddress": ["0x604873F647c6888c109e9fB28ea32De82D97806a"],
-    "listNFTContracts": [
-      {
-        "contractAddress": "0x604873F647c6888c109e9fB28ea32De82D97806a",
-        "name": "Vemo "
-      }
-    ],
     "apiKeys": [
       "2F5PIEZGS2MZXUGXTX5RXB5525CAUWQ36H",
       "8X7299SJZZDWYKIPAB35TFAVKFK2NBPVKQ",

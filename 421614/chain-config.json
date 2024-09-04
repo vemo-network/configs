@@ -34,26 +34,30 @@
     ],
     "NFT_CONTRACTS": [
       {
-        "contractAddress": "0x604873F647c6888c109e9fB28ea32De82D97806a",
-        "name": "Vemo Smart Wallet"
-      },
-      {
         "contractAddress": "0xD66C029A41cD75faD329FcC15D0E1F9AaF2C688f",
-        "name": "Vemo Smart Wallet"
+        "name": "Vemo "
       },
       {
         "contractAddress": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB",
-        "name": "Vemo Smart Wallet"
+        "name": "Vemo "
       },
       {
         "contractAddress": "0x7F4282181243069B55379312196be53566a5FE03",
-        "name": "Farmer collection",
-        "isDelegate": true
+        "name": "vePENDLE Voter",
+        "isDelegated": true,
+        "issuer": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB"
+      },
+      {
+        "contractAddress": "0x50CabF62cc552D43cEA103E363E0E427e24CBC45",
+        "name": "vePENDLE Voter",
+        "isDelegated": true,
+        "issuer": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB"
       },
       {
         "contractAddress": "0x1Cb40278E360b1A50462d27FCe3278902C5ED414",
-        "name": "Farmer collection",
-        "isDelegate": true
+        "name": "vePENDLE Voter",
+        "isDelegated": true,
+        "issuer": "0xD66C029A41cD75faD329FcC15D0E1F9AaF2C688f"
       }
     ]
   },
@@ -81,41 +85,6 @@
   "logConfig": {
     "fromBlock": 40000000,
     "url": "https://api-sepolia.arbiscan.io/api",
-    "rpc": "https://sepolia-rollup.arbitrum.io/rpc",
-    "collectionAddress": [
-      "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB",
-      "0x7F4282181243069B55379312196be53566a5FE03",
-      "0x50CabF62cc552D43cEA103E363E0E427e24CBC45",
-      "0xD66C029A41cD75faD329FcC15D0E1F9AaF2C688f",
-      "0x1Cb40278E360b1A50462d27FCe3278902C5ED414"
-    ],
-    "listNFTContracts": [
-      {
-        "contractAddress": "0xD66C029A41cD75faD329FcC15D0E1F9AaF2C688f",
-        "name": "Vemo "
-      },
-      {
-        "contractAddress": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB",
-        "name": "Vemo "
-      },
-      {
-        "contractAddress": "0x7F4282181243069B55379312196be53566a5FE03",
-        "name": "vePENDLE Voter",
-        "isDelegated": true,
-        "issuer": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB"
-      },
-      {
-        "contractAddress": "0x50CabF62cc552D43cEA103E363E0E427e24CBC45",
-        "name": "vePENDLE Voter",
-        "isDelegated": true,
-        "issuer": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB"
-      },
-      {
-        "contractAddress": "0x1Cb40278E360b1A50462d27FCe3278902C5ED414",
-        "name": "vePENDLE Voter",
-        "isDelegated": true,
-        "issuer": "0xD66C029A41cD75faD329FcC15D0E1F9AaF2C688f"
-      }
-    ]
+    "rpc": "https://sepolia-rollup.arbitrum.io/rpc"
   }
 }

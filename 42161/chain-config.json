@@ -27,7 +27,7 @@
         "name": "Vemo Smart Wallet"
       },
       {
-        "contractAddress": "0xC6eAa9fDBA43eD591437845260e99f77B1Ec3A79",
+        "contractAddress": "0xf9ad84fE8e4Cf9A521369650E29000F621dB7C90",
         "name": "vePENDLE Voter",
         "isDelegated": true,
         "issuer": "0xa815Fd40821b722765Daa326177E3832703C390f"
@@ -35,7 +35,7 @@
     ],
     "DELEGATION_CONTRACTS": [
       {
-        "contractAddress": "0xC6eAa9fDBA43eD591437845260e99f77B1Ec3A79",
+        "contractAddress": "0xf9ad84fE8e4Cf9A521369650E29000F621dB7C90",
         "termAddress": "0xE5dfC61304fFC39f1B464dd3eF4FCc36679242c7",
         "name": "vePENDLE Voter"
       }

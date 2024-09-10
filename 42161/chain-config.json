@@ -19,7 +19,7 @@
     "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-wallet-arb",
     "NFT_CONTRACTS": [
       {
-        "contractAddress": "0xc39A10aB32A1c7578948f13EaD465dB2045D8d29",
+        "contractAddress": "0xa815Fd40821b722765Daa326177E3832703C390f",
         "name": "Vemo Smart Wallet"
       },
       {
@@ -30,7 +30,7 @@
         "contractAddress": "0xC6eAa9fDBA43eD591437845260e99f77B1Ec3A79",
         "name": "vePENDLE Voter",
         "isDelegated": true,
-        "issuer": "0xc39A10aB32A1c7578948f13EaD465dB2045D8d29"
+        "issuer": "0xa815Fd40821b722765Daa326177E3832703C390f"
       }
     ],
     "DELEGATION_CONTRACTS": [
@@ -58,7 +58,7 @@
     "chainId": 42161,
     "description": null,
     "thumbnail": null,
-    "contractAddress": "0xc39A10aB32A1c7578948f13EaD465dB2045D8d29",
+    "contractAddress": "0xa815Fd40821b722765Daa326177E3832703C390f",
     "creatorAddress": null,
     "ownerAddress": null,
     "dappURI": "vemowallet",

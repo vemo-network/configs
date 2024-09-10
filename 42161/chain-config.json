@@ -36,7 +36,8 @@
     "DELEGATION_CONTRACTS": [
       {
         "contractAddress": "0x094b8880C2F318f866Cf704cF5a89B541157407B",
-        "termAddress": "0xE5dfC61304fFC39f1B464dd3eF4FCc36679242c7"
+        "termAddress": "0xE5dfC61304fFC39f1B464dd3eF4FCc36679242c7",
+        "name": "vePENDLE Voter"
       }
     ],
     "FARMER_CONTRACTS": [

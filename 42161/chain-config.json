@@ -44,6 +44,11 @@
         "contractAddress": "0xe199E125a3cCA16A688D964C555b457Bdf7C6125",
         "termAddress": "0xE5dfC61304fFC39f1B464dd3eF4FCc36679242c7",
         "name": "vePENDLE Voter"
+      },
+      {
+        "contractAddress": "0xf9ad84fE8e4Cf9A521369650E29000F621dB7C90",
+        "termAddress": "0xE5dfC61304fFC39f1B464dd3eF4FCc36679242c7",
+        "name": "vePENDLE Voter"
       }
     ],
     "FARMER_CONTRACTS": [

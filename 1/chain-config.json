@@ -19,22 +19,26 @@
     "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-wallet-eth-bnb-arb",
     "NFT_CONTRACTS": [
       {
-        "contractAddress": "0x604873F647c6888c109e9fB28ea32De82D97806a",
+        "contractAddress": "0x7aBD3fb92c722659CAf9A9692e94BcAA651F9759",
         "name": "Vemo Smart Wallet"
       },
       {
-        "contractAddress": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB",
-        "name": "Vemo Smart Wallet"
-      },
+        "contractAddress": "0x90ba36e80bEAB9F32b81AE3E37A5Cc89BEfCd118",
+        "name": "vePENDLE Voter",
+        "isDelegate": true,
+        "issuer": "0x7aBD3fb92c722659CAf9A9692e94BcAA651F9759"
+      }
+    ],
+    "DELEGATION_CONTRACTS": [
       {
-        "contractAddress": "0x7F4282181243069B55379312196be53566a5FE03",
-        "name": "Farmer collection",
-        "isDelegate": true
+        "contractAddress": "0x90ba36e80bEAB9F32b81AE3E37A5Cc89BEfCd118",
+        "termAddress": "0x3dA87E0397acca76a7F21C6ceC1E61B576343a31",
+        "name": "vePENDLE Voter"
       }
     ],
     "FARMER_CONTRACTS": [
       {
-        "address": "0xEc7360041E3d082e5D475B2bE46Ec0e5C205C990"
+        "address": ""
       }
     ]
   },
@@ -50,7 +54,7 @@
     "chainId": 1,
     "description": null,
     "thumbnail": null,
-    "contractAddress": "0x604873f647c6888c109e9fb28ea32de82d97806a",
+    "contractAddress": "0x7aBD3fb92c722659CAf9A9692e94BcAA651F9759",
     "creatorAddress": null,
     "ownerAddress": null,
     "dappURI": "vemowallet",

@@ -1,0 +1,6110 @@
+{
+  "1": {
+    "weth": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "projectLink": "https://weth.io"
+    },
+    "usdt": {
+      "chainId": 1,
+      "decimals": 6,
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "projectLink": "https://tether.to/"
+    },
+    "usdc": {
+      "chainId": 1,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+    },
+    "wbtc": {
+      "chainId": 1,
+      "decimals": 8,
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+    },
+    "sdao": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "SDAO",
+      "name": "Singularity Dao",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x993864E43Caa7F7F12953AD6fEb1d1Ca635B875F",
+      "projectLink": "https://www.singularitydao.ai/"
+    },
+    "stg": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "STG",
+      "name": "StargateToken",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+      "projectLink": "https://stargate.finance/"
+    },
+    "fuse": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "FUSE",
+      "name": "Fuse Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+      "projectLink": "https://fuse.io/"
+    },
+    "caps": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "CAPS",
+      "name": "Capsule Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2",
+      "projectLink": "https://www.ternoa.network/en"
+    },
+    "cake": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "dai": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "projectLink": "https://www.makerdao.com/"
+    },
+    "ldo": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "LDO",
+      "name": "Lido DAO Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+      "projectLink": "https://lido.fi/"
+    },
+    "wstETH": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "wstETH",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "projectLink": "https://lido.fi/"
+    },
+    "link": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "LINK",
+      "name": "ChainLink Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "projectLink": "https://chain.link/"
+    },
+    "matic": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "MATIC",
+      "name": "Matic Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+      "projectLink": "https://polygon.technology/"
+    },
+    "cbEth": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "cbETH",
+      "name": "Coinbase Wrapped Staked ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
+      "projectLink": "https://www.coinbase.com/cbeth"
+    },
+    "ape": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+      "projectLink": "https://apecoin.com/"
+    },
+    "alcx": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "ALCX",
+      "name": "Alchemix",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+      "projectLink": "https://alchemix.fi/"
+    },
+    "alETH": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "alETH",
+      "name": "Alchemix ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6",
+      "projectLink": "https://alchemix.fi/"
+    },
+    "fxs": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "FXS",
+      "name": "Frax Share",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+      "projectLink": "https://frax.finance/"
+    },
+    "frxETH": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "frxETH",
+      "name": "Frax Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5E8422345238F34275888049021821E8E08CAa1f",
+      "projectLink": "https://frax.finance/"
+    },
+    "rpl": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "RPL",
+      "name": "Rocket Pool",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+      "projectLink": "https://rocketpool.net/"
+    },
+    "rETH": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "rETH",
+      "name": "Rocket Pool ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+      "projectLink": "https://rocketpool.net/"
+    },
+    "ankrETH": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "ankrETH",
+      "name": "Ankr Staked ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
+      "projectLink": "https://www.ankr.com/"
+    },
+    "axl": {
+      "chainId": 1,
+      "decimals": 6,
+      "symbol": "AXL",
+      "name": "Axelar",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
+      "projectLink": "https://axelar.network/"
+    },
+    "mask": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "MASK",
+      "name": "Mask Network",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074",
+      "projectLink": "https://mask.io/"
+    },
+    "wncg": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "WNCG",
+      "name": "Wrapped NCG",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817",
+      "projectLink": "https://nine-chronicles.com/"
+    },
+    "ush": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "USH",
+      "name": "unshETHing_Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xE60779CC1b2c1d0580611c526a8DF0E3f870EC48",
+      "projectLink": "https://unsheth.xyz/"
+    },
+    "unshETH": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "unshETH",
+      "name": "unshETH Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
+      "projectLink": "https://unsheth.xyz/"
+    },
+    "wbeth": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "wBETH",
+      "name": "Wrapped Binance Beacon ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa2E3356610840701BDf5611a53974510Ae27E2e1",
+      "projectLink": "https://ethereum.org/en/roadmap/beacon-chain/"
+    },
+    "pepe": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+      "projectLink": "https://www.pepe.vip/"
+    },
+    "blur": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "BLUR",
+      "name": "Blur",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5283D291DBCF85356A21bA090E6db59121208b44",
+      "projectLink": "https://blur.io/"
+    },
+    "ens": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "ENS",
+      "name": "Ethereum Name Service",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+      "projectLink": "https://ens.domains/"
+    },
+    "tusd": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "TUSD",
+      "name": "TrueUSD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+      "projectLink": "https://tusd.io/"
+    },
+    "canto": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "CANTO",
+      "name": "Canto",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x56C03B8C4FA80Ba37F5A7b60CAAAEF749bB5b220",
+      "projectLink": "https://tusd.io/"
+    },
+    "pendle": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "PENDLE",
+      "name": "Pendle",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x808507121B80c02388fAd14726482e061B8da827",
+      "projectLink": "https://www.pendle.finance/"
+    },
+    "wld": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "WLD",
+      "name": "Worldcoin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x163f8C2467924be0ae7B5347228CABF260318753",
+      "projectLink": "https://worldcoin.org/"
+    },
+    "wom": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "WOM",
+      "name": "Wombat Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xc0B314a8c08637685Fc3daFC477b92028c540CFB",
+      "projectLink": "https://www.wombat.exchange/"
+    },
+    "cyber": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "CYBER",
+      "name": "CyberConnect",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x14778860E937f509e651192a90589dE711Fb88a9",
+      "projectLink": "https://cyberconnect.me/"
+    },
+    "woo": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "WOO",
+      "name": "Wootrade Network",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+      "projectLink": "https://woo.network"
+    },
+    "pyusd": {
+      "chainId": 1,
+      "decimals": 6,
+      "symbol": "PYUSD",
+      "name": "PayPal USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+      "projectLink": "https://www.paypal.com/pyusd"
+    },
+    "roci": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "ROCI",
+      "name": "RociFi",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF51092Fe93B4E9282f42c459F05D93D2D079549e",
+      "projectLink": "https://roci.fi/"
+    },
+    "ethx": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "ETHx",
+      "name": "ETHx",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA35b1B31Ce002FBF2058D22F30f95D405200A15b",
+      "projectLink": "https://www.staderlabs.com/"
+    },
+    "meme": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "MEME",
+      "name": "Memecoin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xb131f4A55907B10d1F0A50d8ab8FA09EC342cd74",
+      "projectLink": "https://www.memecoin.org/"
+    },
+    "btrfly": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "BTRFLY",
+      "name": "BTRFLY",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xc55126051B22eBb829D00368f4B12Bde432de5Da",
+      "projectLink": "https://www.redactedcartel.xyz/"
+    },
+    "sdt": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "SDT",
+      "name": "Stake DAO Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
+      "projectLink": "https://www.stakedao.org/"
+    },
+    "eura": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "EURA",
+      "name": "EURA (previously agEUR)",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+      "projectLink": "https://angle.money/"
+    },
+    "insp": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "INSP",
+      "name": "Inspect",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x186eF81fd8E77EEC8BfFC3039e7eC41D5FC0b457",
+      "projectLink": "https://www.inspect.xyz/"
+    },
+    "id": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "ID",
+      "name": "SPACE ID",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
+      "projectLink": "https://space.id/"
+    },
+    "bonk": {
+      "chainId": 1,
+      "decimals": 5,
+      "symbol": "BONK",
+      "name": "BONK",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1151CB3d861920e07a38e03eEAd12C32178567F6",
+      "projectLink": "https://bonkcoin.com"
+    },
+    "aioz": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "AIOZ",
+      "name": "AIOZ Network",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
+      "projectLink": "https://aioz.network/"
+    },
+    "swETH": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "swETH",
+      "name": "swETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xf951E335afb289353dc249e82926178EaC7DEd78",
+      "projectLink": "https://www.swellnetwork.io/"
+    },
+    "osak": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "OSAK",
+      "name": "Osaka Protocol",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa21Af1050F7B26e0cfF45ee51548254C41ED6b5c",
+      "projectLink": "https://osaka.win/"
+    },
+    "ords": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "ORDS",
+      "name": "Ordiswap",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8AB2ff0116A279a99950C66A12298962D152B83c",
+      "projectLink": "https://ordiswap.fi/"
+    },
+    "pxETH": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "pxETH",
+      "name": "Pirex Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6",
+      "projectLink": "https://dineroismoney.com/"
+    },
+    "weETH": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "weETH",
+      "name": "Wrapped eETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+      "projectLink": "https://www.ether.fi/"
+    },
+    "pandora": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "PANDORA",
+      "name": "Pandora",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x9E9FbDE7C7a83c43913BddC8779158F1368F0413",
+      "projectLink": "https://www.ether.fi/"
+    },
+    "pixel": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "PIXEL",
+      "name": "PIXEL",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3429d03c6F7521AeC737a0BBF2E5ddcef2C3Ae31",
+      "projectLink": "https://www.pixels.xyz/"
+    },
+    "xrgb": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "XRGB",
+      "name": "XRGB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a",
+      "projectLink": "https://xrgb.xyz/"
+    },
+    "mswETH": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "mswETH",
+      "name": "mswETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x32bd822d615A3658A68b6fDD30c2fcb2C996D678",
+      "projectLink": "https://www.eigenlayer.magpiexyz.io/restake"
+    },
+    "mstETH": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "mstETH",
+      "name": "mstETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x49446A0874197839D15395B908328a74ccc96Bc0",
+      "projectLink": "https://www.eigenlayer.magpiexyz.io/restake"
+    },
+    "nmt": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "NMT",
+      "name": "NetMind Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x03AA6298F1370642642415EDC0db8b957783e8D6",
+      "projectLink": "https://power.netmind.ai/"
+    },
+    "rswETH": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "rswETH",
+      "name": "rswETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xFAe103DC9cf190eD75350761e95403b7b8aFa6c0",
+      "projectLink": "https://www.swellnetwork.io/"
+    },
+    "masa": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "MASA",
+      "name": "Masa Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x944824290CC12F31ae18Ef51216A223Ba4063092",
+      "projectLink": "https://www.masa.finance/"
+    }
+  },
+  "5": {
+    "cake": {
+      "chainId": 5,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xc2C3eAbE0368a2Ea97f485b03D1098cdD7d0c081",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "weth": {
+      "chainId": 5,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "projectLink": "https://weth.io"
+    },
+    "celr": {
+      "chainId": 5,
+      "decimals": 18,
+      "symbol": "CELR",
+      "name": "CelerToken",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5D3c0F4cA5EE99f8E8F59Ff9A5fAb04F6a7e007f",
+      "projectLink": ""
+    },
+    "leet": {
+      "chainId": 5,
+      "decimals": 18,
+      "symbol": "LEET",
+      "name": "Leet Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xBd509651E6374c327d24b9d7E3Ea46704f6F31E8",
+      "projectLink": ""
+    },
+    "usdc": {
+      "chainId": 5,
+      "decimals": 6,
+      "symbol": "tUSDC",
+      "name": "test USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F"
+    },
+    "mockB": {
+      "chainId": 5,
+      "decimals": 18,
+      "symbol": "MOCK B",
+      "name": "MOCK B",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xB8DA084D035C9c38518D86A9D079ba6A0Aec4327"
+    },
+    "mockA": {
+      "chainId": 5,
+      "decimals": 18,
+      "symbol": "MOCK A",
+      "name": "MOCK A",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xD134B434682dF091E398a844Dc3c613fe728cE2D"
+    }
+  },
+  "56": {
+    "wbnb": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WBNB",
+      "name": "Wrapped BNB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "projectLink": "https://www.binance.org"
+    },
+    "cake": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "gmi": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "GMI",
+      "name": "Gamifi",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x93D8d25E3C9A847a5Da79F79ecaC89461FEcA846",
+      "projectLink": "https://gamifi.gg/"
+    },
+    "tlos": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "TLOS",
+      "name": "Telos",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
+      "projectLink": "https://www.telos.net/"
+    },
+    "beta": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BETA",
+      "name": "Beta Finance",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28",
+      "projectLink": "https://betafinance.org"
+    },
+    "nft": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "NFT",
+      "name": "APENFT",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1fC9004eC7E5722891f5f38baE7678efCB11d34D",
+      "projectLink": "https://apenft.org"
+    },
+    "stephero": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "HERO",
+      "name": "StepHero",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xE8176d414560cFE1Bf82Fd73B986823B89E4F545",
+      "projectLink": "https://stephero.io/"
+    },
+    "pros": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PROS",
+      "name": "Prosper",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405",
+      "projectLink": "https://prosper.so/"
+    },
+    "qbt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "QBT",
+      "name": "Qubit Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x17B7163cf1Dbd286E262ddc68b553D899B93f526",
+      "projectLink": "https://qbt.fi/"
+    },
+    "cvp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CVP",
+      "name": "Concentrated Voting Power Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5Ec3AdBDae549Dce842e24480Eb2434769e22B2E",
+      "projectLink": "https://powerpool.finance/"
+    },
+    "bscdefi": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BSCDEFI",
+      "name": "ChainId.BSC Defi blue chips token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x40E46dE174dfB776BB89E04dF1C47d8a66855EB3",
+      "projectLink": "https://powerpool.finance/"
+    },
+    "busd": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BUSD",
+      "name": "Binance USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "projectLink": "https://www.paxos.com/busd/"
+    },
+    "dai": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "projectLink": "https://www.makerdao.com/"
+    },
+    "usdt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "projectLink": "https://tether.to/"
+    },
+    "btcb": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BTCB",
+      "name": "Binance BTC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "projectLink": "https://bitcoin.org/"
+    },
+    "ust": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "UST",
+      "name": "Wrapped UST Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
+      "projectLink": "https://mirror.finance/"
+    },
+    "eth": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ETH",
+      "name": "Binance-Peg Ethereum Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "projectLink": "https://ethereum.org/en/"
+    },
+    "usdc": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "USDC",
+      "name": "Binance-Peg USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "projectLink": "https://www.centre.io/usdc"
+    },
+    "kalm": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "KALM",
+      "name": "Kalmar Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4BA0057f784858a48fe351445C672FF2a3d43515",
+      "projectLink": "https://kalmar.io/"
+    },
+    "dkt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DKT",
+      "name": "Duelist King",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7Ceb519718A80Dd78a8545AD8e7f401dE4f2faA7",
+      "projectLink": "https://duelistking.com/"
+    },
+    "hotcross": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "HOTCROSS",
+      "name": "Hotcross Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+      "projectLink": "https://www.hotcross.com/"
+    },
+    "belt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BELT",
+      "name": "Belt Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f",
+      "projectLink": "https://beta.belt.fi/"
+    },
+    "watch": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WATCH",
+      "name": "Yieldwatch Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0",
+      "projectLink": "https://yieldwatch.net/"
+    },
+    "bry": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BRY",
+      "name": "Berry Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
+      "projectLink": "https://berrydata.co/"
+    },
+    "wsote": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "wSOTE",
+      "name": "Soteria Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x541E619858737031A1244A5d0Cd47E5ef480342c",
+      "projectLink": "https://soteria.finance/"
+    },
+    "helmet": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "Helmet",
+      "name": "Helmet Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
+      "projectLink": "https://www.helmet.insure/"
+    },
+    "ten": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "TEN",
+      "name": "Tenet Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xdFF8cb622790b7F92686c722b02CaB55592f152C",
+      "projectLink": "https://www.tenet.farm/"
+    },
+    "ditto": {
+      "chainId": 56,
+      "decimals": 9,
+      "symbol": "DITTO",
+      "name": "Ditto Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x233d91A0713155003fc4DcE0AFa871b508B3B715",
+      "projectLink": "https://ditto.money/"
+    },
+    "blink": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "BLINK",
+      "name": "Blink Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F",
+      "projectLink": "https://blink.wink.org"
+    },
+    "syrup": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SYRUP",
+      "name": "SyrupBar Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x009cF7bC57584b7998236eff51b98A168DceA9B0",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "pha": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PHA",
+      "name": "Phala Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0112e557d400474717056C4e6D40eDD846F38351",
+      "projectLink": "https://phala.network"
+    },
+    "babycake": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BABYCAKE",
+      "name": "Baby Cake Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c",
+      "projectLink": "https://babycake.app/"
+    },
+    "bmon": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BMON",
+      "name": "Binamon Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x08ba0619b1e7A582E0BCe5BBE9843322C954C340",
+      "projectLink": "https://binamon.org/"
+    },
+    "hero": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "HERO",
+      "name": "Metahero Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
+      "projectLink": "https://metahero.io/"
+    },
+    "wsg": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WSG",
+      "name": "Wall Street Games Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA58950F05FeA2277d2608748412bf9F802eA4901",
+      "projectLink": "https://wsg.gg/"
+    },
+    "mcrn": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MCRN",
+      "name": "Macaronswap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+      "projectLink": "https://www.macaronswap.finance/"
+    },
+    "revv": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "REVV",
+      "name": "REVV Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x833F307aC507D47309fD8CDD1F835BeF8D702a93",
+      "projectLink": "https://revvmotorsport.com/"
+    },
+    "skill": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SKILL",
+      "name": "Cryptoblades Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab",
+      "projectLink": "https://www.cryptoblades.io/"
+    },
+    "if": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "IF",
+      "name": "Impossible Finance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xB0e1fc65C1a741b4662B813eB787d369b8614Af1",
+      "projectLink": "https://impossible.finance/"
+    },
+    "sps": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SPS",
+      "name": "Splinterlands Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1633b7157e7638C4d6593436111Bf125Ee74703F",
+      "projectLink": "https://splinterlands.com"
+    },
+    "chess": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CHESS",
+      "name": "Chess Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6",
+      "projectLink": "https://tranchess.com/"
+    },
+    "titan": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "TITAN",
+      "name": "Titanswap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe898EDc43920F357A93083F1d4460437dE6dAeC2",
+      "projectLink": "https://titanswap.org"
+    },
+    "harmony": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ONE",
+      "name": "Harmony ONE Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x03fF0ff224f904be3118461335064bB48Df47938",
+      "projectLink": "https://www.harmony.one/"
+    },
+    "mask": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MASK",
+      "name": "Mask Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2eD9a5C8C13b93955103B9a7C167B67Ef4d568a3",
+      "projectLink": "https://mask.io/"
+    },
+    "dvi": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DVI",
+      "name": "Dvision Network Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x758FB037A375F17c7e195CC634D77dA4F554255B",
+      "projectLink": "https://dvision.network/"
+    },
+    "adx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ADX",
+      "name": "Adex Network Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6bfF4Fb161347ad7de4A625AE5aa3A1CA7077819",
+      "projectLink": "https://www.adex.network"
+    },
+    "bscpad": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BSCPAD",
+      "name": "Bscpad Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5A3010d4d8D3B5fB49f8B6E57FB9E48063f16700",
+      "projectLink": "https://bscpad.com/"
+    },
+    "rabbit": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "RABBIT",
+      "name": "Rabbit Finance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x95a1199EBA84ac5f19546519e287d43D2F0E1b41",
+      "projectLink": "https://rabbitfinance.io/earn"
+    },
+    "form": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "FORM",
+      "name": "Formation Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x25A528af62e56512A19ce8c3cAB427807c28CC19",
+      "projectLink": "https://formation.fi/"
+    },
+    "txl": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "TXL",
+      "name": "Tixl Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1FFD0b47127fdd4097E54521C9E2c7f0D66AafC5",
+      "projectLink": "https://tixl.org/"
+    },
+    "orbs": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ORBS",
+      "name": "Orbs Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xeBd49b26169e1b52c04cFd19FCf289405dF55F80",
+      "projectLink": "https://www.orbs.com/"
+    },
+    "cos": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "COS",
+      "name": "Contentos Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x96Dd399F9c3AFda1F194182F71600F1B65946501",
+      "projectLink": "https://www.contentos.io/"
+    },
+    "bunny": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BUNNY",
+      "name": "Pancakebunny Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
+      "projectLink": "https://pancakebunny.finance/"
+    },
+    "alice": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "ALICE",
+      "name": "My Neighbor Alice Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+      "projectLink": "https://www.myneighboralice.com/"
+    },
+    "for": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "FOR",
+      "name": "Fortube Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x658A109C5900BC6d2357c87549B651670E5b0539",
+      "projectLink": "https://www.for.tube/home"
+    },
+    "bux": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BUX",
+      "name": "Bux Crypto Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x211FfbE424b90e25a15531ca322adF1559779E45",
+      "projectLink": "https://getbux.com/bux-crypto/"
+    },
+    "nuls": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "NULS",
+      "name": "Nuls Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
+      "projectLink": "https://www.nuls.io/"
+    },
+    "ramp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "RAMP",
+      "name": "RAMP DEFI Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8519EA49c997f50cefFa444d240fB655e89248Aa",
+      "projectLink": "https://rampdefi.com/"
+    },
+    "bfi": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BFI",
+      "name": "bearn.fi Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x81859801b01764D4f0Fa5E64729f5a6C3b91435b",
+      "projectLink": "https://bearn.fi/"
+    },
+    "dexe": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DEXE",
+      "name": "DeXe Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x039cB485212f996A9DBb85A9a75d898F94d38dA6",
+      "projectLink": "https://dexe.network/"
+    },
+    "bel": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BEL",
+      "name": "Bella Protocol Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8443f091997f06a61670B735ED92734F5628692F",
+      "projectLink": "https://bella.fi/"
+    },
+    "tpt": {
+      "chainId": 56,
+      "decimals": 4,
+      "symbol": "TPT",
+      "name": "Tokenpocket Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xECa41281c24451168a37211F0bc2b8645AF45092",
+      "projectLink": "https://www.tokenpocket.pro/"
+    },
+    "xmark": {
+      "chainId": 56,
+      "decimals": 9,
+      "symbol": "xMARK",
+      "name": "Benchmark Protocol Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x26A5dFab467d4f58fB266648CAe769503CEC9580",
+      "projectLink": "https://benchmarkprotocol.finance/"
+    },
+    "bmxx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "bMXX",
+      "name": "Multiplier Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4131b87F74415190425ccD873048C708F8005823",
+      "projectLink": "https://multiplier.finance/"
+    },
+    "iotx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "IOTX",
+      "name": "Binance-Peg IoTeX Network Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
+      "projectLink": "https://iotex.io/"
+    },
+    "bor": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BOR",
+      "name": "BoringDAO Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x92D7756c60dcfD4c689290E8A9F4d263b3b32241",
+      "projectLink": "https://www.boringdao.com/"
+    },
+    "bopen": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "bOPEN",
+      "name": "OPEN Governance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF35262a9d427F96d2437379eF090db986eaE5d42",
+      "projectLink": "https://opendao.io/"
+    },
+    "dodo": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DODO",
+      "name": "Dodo Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2",
+      "projectLink": "https://dodoex.io/"
+    },
+    "swingby": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SWINGBY",
+      "name": "Swingby Network Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x71DE20e0C4616E7fcBfDD3f875d568492cBE4739",
+      "projectLink": "https://swingby.network/"
+    },
+    "zee": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ZEE",
+      "name": "Zeroswap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x44754455564474A89358B2C2265883DF993b12F0",
+      "projectLink": "https://zeroswap.io/"
+    },
+    "swgb": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SWGb",
+      "name": "SWGb Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xE40255C5d7fa7ceEc5120408C78C787CECB4cfdb",
+      "projectLink": "https://swirgepay.com/"
+    },
+    "swg": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SWG",
+      "name": "SWG Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe792f64C582698b8572AAF765bDC426AC3aEfb6B",
+      "projectLink": "https://swirgepay.com/"
+    },
+    "sfp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SFP",
+      "name": "Safepal Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
+      "projectLink": "https://www.safepal.io/"
+    },
+    "lina": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "LINA",
+      "name": "Linear Finance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x762539b45A1dCcE3D36d080F74d1AED37844b878",
+      "projectLink": "https://linear.finance/"
+    },
+    "lit": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "LIT",
+      "name": "Litentry Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
+      "projectLink": "https://www.litentry.com/"
+    },
+    "hget": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "HGET",
+      "name": "Hedget Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xC7d8D35EBA58a0935ff2D5a33Df105DD9f071731",
+      "projectLink": "https://www.hedget.com/"
+    },
+    "bdo": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BDO",
+      "name": "Bdollar Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454",
+      "projectLink": "https://bdollar.fi/"
+    },
+    "egld": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "EGLD",
+      "name": "Elrond Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
+      "projectLink": "https://elrond.com/"
+    },
+    "front": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "FRONT",
+      "name": "Frontier Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+      "projectLink": "https://frontier.xyz/"
+    },
+    "btcst": {
+      "chainId": 56,
+      "decimals": 17,
+      "symbol": "BTCST",
+      "name": "StandardBTCHashrate Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x78650B139471520656b9E7aA7A5e9276814a38e9",
+      "projectLink": "https://www.1-b.tc/"
+    },
+    "bscx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BSCX",
+      "name": "BSCX Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587",
+      "projectLink": "https://bscex.org/"
+    },
+    "balbt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "bALBT",
+      "name": "AllianceBlock Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
+      "projectLink": "https://allianceblock.io/"
+    },
+    "asr": {
+      "chainId": 56,
+      "decimals": 2,
+      "symbol": "ASR",
+      "name": "AS Roma Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x80D5f92C2c8C682070C95495313dDB680B267320",
+      "projectLink": "https://www.chiliz.com"
+    },
+    "atm": {
+      "chainId": 56,
+      "decimals": 2,
+      "symbol": "ATM",
+      "name": "Athletico Madrid Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x25E9d05365c867E59C1904E7463Af9F312296f9E",
+      "projectLink": "https://www.chiliz.com"
+    },
+    "og": {
+      "chainId": 56,
+      "decimals": 2,
+      "symbol": "OG",
+      "name": "OG Nice Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xf05E45aD22150677a017Fbd94b84fBB63dc9b44c",
+      "projectLink": "https://www.chiliz.com"
+    },
+    "reef": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "REEF",
+      "name": "Reef.finance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e",
+      "projectLink": "https://reef.finance/"
+    },
+    "juv": {
+      "chainId": 56,
+      "decimals": 2,
+      "symbol": "JUV",
+      "name": "Juventus Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xC40C9A843E1c6D01b7578284a9028854f6683b1B",
+      "projectLink": "https://www.chiliz.com"
+    },
+    "psg": {
+      "chainId": 56,
+      "decimals": 2,
+      "symbol": "PSG",
+      "name": "Paris Saint-Germain Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xBc5609612b7C44BEf426De600B5fd1379DB2EcF1",
+      "projectLink": "https://www.chiliz.com"
+    },
+    "vai": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "VAI",
+      "name": "VAI Stablecoin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
+      "projectLink": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7"
+    },
+    "unfi": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "UNFI",
+      "name": "UNFI Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B",
+      "projectLink": "https://unifiprotocol.com"
+    },
+    "twt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "TWT",
+      "name": "Trust Wallet Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+      "projectLink": "https://trustwallet.com/"
+    },
+    "hard": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "HARD",
+      "name": "HARD Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
+      "projectLink": "https://hard.kava.io"
+    },
+    "broobee": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "bROOBEE",
+      "name": "ROOBEE Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
+      "projectLink": "https://roobee.io/"
+    },
+    "stax": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "STAX",
+      "name": "StableX Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0Da6Ed8B13214Ff28e9Ca979Dd37439e8a88F6c4",
+      "projectLink": "https://stablexswap.com/"
+    },
+    "nar": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "NAR",
+      "name": "Narwhalswap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA1303E6199b319a891b79685F0537D289af1FC83",
+      "projectLink": "https://narwhalswap.org/"
+    },
+    "nya": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "NYA",
+      "name": "Nyanswop Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xbFa0841F7a90c4CE6643f651756EE340991F99D5",
+      "projectLink": "https://nyanswop.org/"
+    },
+    "ctk": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "CTK",
+      "name": "Certik Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929",
+      "projectLink": "https://www.certik.foundation/"
+    },
+    "inj": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "INJ",
+      "name": "Injective Protocol Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
+      "projectLink": "https://injectiveprotocol.com/"
+    },
+    "sxp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SXP",
+      "name": "Swipe Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
+      "projectLink": "https://swipe.io/"
+    },
+    "alpha": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ALPHA",
+      "name": "Alpha Finance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
+      "projectLink": "https://alphafinance.io/"
+    },
+    "xvs": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "XVS",
+      "name": "Venus Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+      "projectLink": "https://venus.io/"
+    },
+    "sushi": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SUSHI",
+      "name": "Binance-Peg SushiToken",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+      "projectLink": "https://sushi.com/"
+    },
+    "comp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "COMP",
+      "name": "Compound Finance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+      "projectLink": "https://compound.finance/"
+    },
+    "bifi": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BIFI",
+      "name": "Beefy Finance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+      "projectLink": "https://beefy.finance/"
+    },
+    "dusk": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DUSK",
+      "name": "Dusk Network Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xB2BD0749DBE21f623d9BABa856D3B0f0e1BFEc9C",
+      "projectLink": "https://dusk.network/"
+    },
+    "beth": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BETH",
+      "name": "Binance Beacon ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B",
+      "projectLink": "https://ethereum.org/en/eth2/beacon-chain/"
+    },
+    "mamzn": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "mAMZN",
+      "name": "Wrapped Mirror AMZN Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3947B992DC0147D2D89dF0392213781b04B25075",
+      "projectLink": "https://mirror.finance/"
+    },
+    "mgoogl": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "mGOOGL",
+      "name": "Wrapped Mirror GOOGL Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f",
+      "projectLink": "https://mirror.finance/"
+    },
+    "mnflx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "mNFLX",
+      "name": "Wrapped Mirror NFLX Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc",
+      "projectLink": "https://mirror.finance/"
+    },
+    "mtsla": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "mTSLA",
+      "name": "Wrapped Mirror TSLA Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF215A127A196e3988C09d052e16BcFD365Cd7AA3",
+      "projectLink": "https://mirror.finance/"
+    },
+    "ltc": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "LTC",
+      "name": "Binance-Peg Litecoin Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+      "projectLink": "https://litecoin.org/"
+    },
+    "ada": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ADA",
+      "name": "Binance-Peg Cardano Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "projectLink": "https://www.cardano.org/"
+    },
+    "band": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BAND",
+      "name": "Binance-Peg Band Protocol Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
+      "projectLink": "https://bandprotocol.com/"
+    },
+    "dot": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DOT",
+      "name": "Binance-Peg Polkadot Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+      "projectLink": "https://polkadot.network/"
+    },
+    "eos": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "EOS",
+      "name": "Binance-Peg EOS Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+      "projectLink": "https://eos.io/"
+    },
+    "link": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "LINK",
+      "name": "Binance-Peg Chainlink Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+      "projectLink": "https://chain.link/"
+    },
+    "xrp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "XRP",
+      "name": "Binance-Peg XRP Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+      "projectLink": "https://ripple.com/xrp/"
+    },
+    "atom": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ATOM",
+      "name": "Binance-Peg Cosmos Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+      "projectLink": "https://cosmos.network/"
+    },
+    "yfii": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "YFII",
+      "name": "Binance-Peg YFII.finance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
+      "projectLink": "https://dfi.money/#/"
+    },
+    "xtz": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "XTZ",
+      "name": "Binance-Peg Tezos Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
+      "projectLink": "https://www.tezos.com/"
+    },
+    "bch": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BCH",
+      "name": "Binance-Peg Bitcoin Cash Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+      "projectLink": "https://bch.info/"
+    },
+    "yfi": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "YFI",
+      "name": "Binance-Peg yearn.finance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
+      "projectLink": "https://yearn.finance/"
+    },
+    "uni": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "UNI",
+      "name": "Binance-Peg Uniswap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+      "projectLink": "https://uniswap.org/"
+    },
+    "fil": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "FIL",
+      "name": "Binance-Peg Filecoin Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+      "projectLink": "https://filecoin.io/"
+    },
+    "bake": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BAKE",
+      "name": "Bakeryswap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      "projectLink": "https://www.bakeryswap.org/"
+    },
+    "burger": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BURGER",
+      "name": "Burgerswap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
+      "projectLink": "https://burgerswap.org/"
+    },
+    "bdigg": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "bDIGG",
+      "name": "Badger Sett Digg Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5986D5c77c65e5801a5cAa4fAE80089f870A71dA",
+      "projectLink": "https://badger.finance/"
+    },
+    "bbadger": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "bBadger",
+      "name": "Badger Sett Badger Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1F7216fdB338247512Ec99715587bb97BBf96eae",
+      "projectLink": "https://badger.finance/"
+    },
+    "trade": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "TRADE",
+      "name": "Unitrade Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7af173F350D916358AF3e218Bdf2178494Beb748",
+      "projectLink": "https://unitrade.app/"
+    },
+    "pnt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PNT",
+      "name": "pNetwork Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xdaacB0Ab6Fb34d24E8a67BfA14BF4D95D4C7aF92",
+      "projectLink": "https://ptokens.io/"
+    },
+    "mir": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MIR",
+      "name": "Mirror Protocol Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5B6DcF557E2aBE2323c48445E8CC948910d8c2c9",
+      "projectLink": "https://mirror.finance/"
+    },
+    "pbtc": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "pBTC",
+      "name": "pTokens BTC Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xeD28A457A5A76596ac48d87C0f577020F6Ea1c4C",
+      "projectLink": "https://ptokens.io/"
+    },
+    "lto": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "LTO",
+      "name": "LTO Network Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x857B222Fc79e1cBBf8Ca5f78CB133d1b7CF34BBd",
+      "projectLink": "https://ltonetwork.com/"
+    },
+    "pcws": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "pCWS",
+      "name": "PolyCrowns Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd",
+      "projectLink": "https://game.seascape.network/"
+    },
+    "zil": {
+      "chainId": 56,
+      "decimals": 12,
+      "symbol": "ZIL",
+      "name": "Zilliqa Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+      "projectLink": "https://www.zilliqa.com/"
+    },
+    "lien": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "LIEN",
+      "name": "Lien Finance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5d684ADaf3FcFe9CFb5ceDe3abf02F0Cdd1012E3",
+      "projectLink": "https://lien.finance/"
+    },
+    "swth": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "SWTH",
+      "name": "Switcheo Network Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x250b211EE44459dAd5Cd3bCa803dD6a7EcB5d46C",
+      "projectLink": "https://switcheo.network/"
+    },
+    "dft": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DFT",
+      "name": "Dfuture Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x42712dF5009c20fee340B245b510c0395896cF6e",
+      "projectLink": "https://www.dfuture.com/home"
+    },
+    "gum": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "GUM",
+      "name": "GourmetGalaxy Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
+      "projectLink": "https://gourmetgalaxy.io/"
+    },
+    "dego": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DEGO",
+      "name": "Dego Finance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC",
+      "projectLink": "https://bsc.dego.finance/home"
+    },
+    "nrv": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "NRV",
+      "name": "Nerve Finance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096",
+      "projectLink": "https://nerve.fi/"
+    },
+    "easy": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "EASY",
+      "name": "EASY Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7C17c8bED8d14bAccE824D020f994F4880D6Ab3B",
+      "projectLink": "https://easyfi.network/"
+    },
+    "oddz": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ODDZ",
+      "name": "Oddz Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xCD40F2670CF58720b694968698A5514e924F742d",
+      "projectLink": "https://oddz.fi/"
+    },
+    "hoo": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "HOO",
+      "name": "Hoo Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xE1d1F66215998786110Ba0102ef558b22224C016",
+      "projectLink": "https://hoo.com/"
+    },
+    "apys": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "APYS",
+      "name": "APY Swap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x37dfACfaeDA801437Ff648A1559d73f4C40aAcb7",
+      "projectLink": "https://apyswap.com/"
+    },
+    "bondly": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BONDLY",
+      "name": "Bondly Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x96058f8C3e16576D9BD68766f3836d9A33158f89",
+      "projectLink": "https://www.bondly.finance/"
+    },
+    "tko": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "TKO",
+      "name": "Tokocrypto Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
+      "projectLink": "https://www.tokocrypto.com/"
+    },
+    "itam": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ITAM",
+      "name": "Itam Network Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x04C747b40Be4D535fC83D09939fb0f626F32800B",
+      "projectLink": "https://itam.network/"
+    },
+    "arpa": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ARPA",
+      "name": "Arpachain Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6F769E65c14Ebd1f68817F5f1DcDb61Cfa2D6f7e",
+      "projectLink": "https://arpachain.io/"
+    },
+    "eps": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "EPS",
+      "name": "Ellipsis Finance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA7f552078dcC247C2684336020c03648500C6d9F",
+      "projectLink": "https://ellipsis.finance/"
+    },
+    "jgn": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "JGN",
+      "name": "Juggernaut DeFi Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xC13B7a43223BB9Bf4B69BD68Ab20ca1B79d81C75",
+      "projectLink": "https://jgndefi.com/"
+    },
+    "tlm": {
+      "chainId": 56,
+      "decimals": 4,
+      "symbol": "TLM",
+      "name": "Alien Worlds Trilium Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2222227E22102Fe3322098e4CBfE18cFebD57c95",
+      "projectLink": "https://alienworlds.io/"
+    },
+    "perl": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PERL",
+      "name": "Perlin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0F9E4D49f25de22c2202aF916B681FBB3790497B",
+      "projectLink": "https://perlinx.finance/"
+    },
+    "alpa": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ALPA",
+      "name": "AlpaToken",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xc5E6689C9c8B02be7C49912Ef19e79cF24977f03",
+      "projectLink": "https://bsc.alpaca.city/"
+    },
+    "hzn": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "HZN",
+      "name": "Horizon Protocol Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xC0eFf7749b125444953ef89682201Fb8c6A917CD",
+      "projectLink": "https://horizonprotocol.com/"
+    },
+    "suter": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SUTER",
+      "name": "Suterusu Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4CfbBdfBd5BF0814472fF35C72717Bd095ADa055",
+      "projectLink": "https://shield.suterusu.io/"
+    },
+    "cgg": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CGG",
+      "name": "pTokens CGG Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1613957159E9B0ac6c80e824F7Eea748a32a0AE2",
+      "projectLink": "https://chainguardians.io/"
+    },
+    "mix": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MIX",
+      "name": "Mix Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xB67754f5b4C704A24d2db68e661b2875a4dDD197",
+      "projectLink": "https://mixie.chainguardians.io/"
+    },
+    "hakka": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "HAKKA",
+      "name": "Hakka Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1D1eb8E8293222e1a29d2C0E4cE6C0Acfd89AaaC",
+      "projectLink": "https://hakka.finance/"
+    },
+    "xed": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "XED",
+      "name": "Exeedme Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5621b5A3f4a8008c4CCDd1b942B121c8B1944F1f",
+      "projectLink": "https://www.exeedme.com/"
+    },
+    "τbtc": {
+      "chainId": 56,
+      "decimals": 9,
+      "symbol": "τBTC",
+      "name": "τBitcoin Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c",
+      "projectLink": "https://www.btcst.finance/"
+    },
+    "alpaca": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ALPACA",
+      "name": "AlpacaToken",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+      "projectLink": "https://www.alpacafinance.org/"
+    },
+    "dfd": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DFD",
+      "name": "DefiDollar DAO",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x9899a98b222fCb2f3dbee7dF45d943093a4ff9ff",
+      "projectLink": "https://dusd.finance/"
+    },
+    "lmt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "LMT",
+      "name": "Lympo Market Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x9617857E191354dbEA0b714d78Bc59e57C411087",
+      "projectLink": "https://lympo.io/lmt/"
+    },
+    "bttold": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BTTOLD",
+      "name": "Binance-Peg BitTorrent Token (Old)",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
+      "projectLink": "https://www.bittorrent.com/"
+    },
+    "trx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "TRX",
+      "name": "TRON Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+      "projectLink": "https://tron.network/"
+    },
+    "trxv2": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "TRX",
+      "name": "TRON Token v2",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
+      "projectLink": "https://tron.network/"
+    },
+    "win": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WIN",
+      "name": "WIN Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99",
+      "projectLink": "https://winklink.org/"
+    },
+    "mcoin": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MCOIN",
+      "name": "Wrapped Mirror COIN Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x49022089e78a8D46Ec87A3AF86a1Db6c189aFA6f",
+      "projectLink": "https://mirror.finance/"
+    },
+    "math": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MATH",
+      "name": "MATH Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF218184Af829Cf2b0019F8E6F0b2423498a36983",
+      "projectLink": "https://mathwallet.org/"
+    },
+    "kun": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "KUN",
+      "name": "QIAN governance token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1A2fb0Af670D0234c2857FaD35b789F8Cb725584",
+      "projectLink": "https://chemix.io/home"
+    },
+    "qsd": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "QSD",
+      "name": "QIAN second generation dollar",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x07AaA29E63FFEB2EBf59B33eE61437E1a91A3bb2",
+      "projectLink": "https://chemix.io/home"
+    },
+    "hyfi": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "HYFI",
+      "name": "HYFI Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x9a319b959e33369C5eaA494a770117eE3e585318",
+      "projectLink": "https://hyfi.pro/#/"
+    },
+    "oin": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "OIN",
+      "name": "oinfinance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x658E64FFcF40D240A43D52CA9342140316Ae44fA",
+      "projectLink": "https://oin.finance/"
+    },
+    "doge": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "DOGE",
+      "name": "Binance-Peg Dogecoin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+      "projectLink": "https://dogecoin.com/"
+    },
+    "fine": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "FINE",
+      "name": "Refinable Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4e6415a5727ea08aAE4580057187923aeC331227",
+      "projectLink": "https://refinable.com/"
+    },
+    "one": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ONE",
+      "name": "BigONE Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x04BAf95Fd4C52fd09a56D840bAEe0AB8D7357bf0",
+      "projectLink": "https://www.bigone.com/"
+    },
+    "pmon": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PMON",
+      "name": "Polkamon Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+      "projectLink": "https://polkamon.com/"
+    },
+    "τdoge": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "τDOGE",
+      "name": "τDogecoin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A",
+      "projectLink": "https://www.btcst.finance/"
+    },
+    "btr": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BTR",
+      "name": "Bitrue Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5a16E8cE8cA316407c6E6307095dc9540a8D62B3",
+      "projectLink": "https://www.bitrue.com/"
+    },
+    "ubxt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "UBXT",
+      "name": "UpBots Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xBbEB90cFb6FAFa1F69AA130B7341089AbeEF5811",
+      "projectLink": "https://upbots.com/"
+    },
+    "wmass": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "WMASS",
+      "name": "Wrapped MASS Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7e396BfC8a2f84748701167c2d622F041A1D7a17",
+      "projectLink": "https://massnet.org/en/"
+    },
+    "rfox": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "RFOX",
+      "name": "RFOX Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0a3A21356793B49154Fd3BbE91CBc2A16c0457f5",
+      "projectLink": "https://www.redfoxlabs.io/"
+    },
+    "xend": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "XEND",
+      "name": "XEND Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4a080377f83D669D7bB83B3184a8A5E61B500608",
+      "projectLink": "https://xend.finance/"
+    },
+    "cyc": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CYC",
+      "name": "CYC Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x810EE35443639348aDbbC467b33310d2AB43c168",
+      "projectLink": "https://cyclone.xyz/"
+    },
+    "chr": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "CHR",
+      "name": "Chroma Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE",
+      "projectLink": "https://chromia.com/"
+    },
+    "deri": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DERI",
+      "name": "Deri Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe60eaf5A997DFAe83739e035b005A33AfdCc6df5",
+      "projectLink": "https://deri.finance/#/index"
+    },
+    "well": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WELL",
+      "name": "BitWell Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xf07a32Eb035b786898c00bB1C64d8c6F8E7a46D5",
+      "projectLink": "https://www.bitwellex.com/"
+    },
+    "wex": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WEX",
+      "name": "WaultSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90",
+      "projectLink": "https://wault.finance/"
+    },
+    "waultx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WAULTx",
+      "name": "Wault Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21",
+      "projectLink": "https://wault.finance/"
+    },
+    "popen": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "pOPEN",
+      "name": "OPEN Governance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xaBaE871B7E3b67aEeC6B46AE9FE1A91660AadAC5",
+      "projectLink": "https://opendao.io/"
+    },
+    "ez": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "EZ",
+      "name": "Easy V2 Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5512014efa6Cd57764Fa743756F7a6Ce3358cC83",
+      "projectLink": "https://easyfi.network/"
+    },
+    "vrt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "VRT",
+      "name": "Venus Reward Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5F84ce30DC3cF7909101C69086c50De191895883",
+      "projectLink": "https://venus.io/"
+    },
+    "deprecated_tusd": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "TUSDOLD",
+      "name": "Binance-Peg TrueUSD Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
+      "projectLink": "https://www.trueusd.com/"
+    },
+    "mtrg": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MTRG",
+      "name": "Wrapped MTRG Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+      "projectLink": "https://www.meter.io/"
+    },
+    "ktn": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "KTN",
+      "name": "Kattana Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xDAe6c2A48BFAA66b43815c5548b10800919c993E",
+      "projectLink": "https://kattana.io/"
+    },
+    "qkc": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "QKC",
+      "name": "QuarkChain Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA1434F1FC3F437fa33F7a781E041961C0205B5Da",
+      "projectLink": "https://quarkchain.io/"
+    },
+    "bcfx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "bCFX",
+      "name": "ChainId.BSC Conflux Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x045c4324039dA91c52C55DF5D785385Aab073DcF",
+      "projectLink": "https://www.confluxnetwork.org/"
+    },
+    "mx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MX",
+      "name": "MX Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x9F882567A62a5560d147d64871776EeA72Df41D3",
+      "projectLink": "https://www.mxc.com/"
+    },
+    "ata": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ATA",
+      "name": "Automata Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
+      "projectLink": "https://www.ata.network/"
+    },
+    "mbox": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MBOX",
+      "name": "Mobox Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
+      "projectLink": "https://www.mobox.io/#/"
+    },
+    "boring": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BORING",
+      "name": "BoringDAO Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xffEecbf8D7267757c2dc3d13D730E97E15BfdF7F",
+      "projectLink": "https://www.boringdao.com/"
+    },
+    "marsh": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MARSH",
+      "name": "Unmarshal Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
+      "projectLink": "https://unmarshal.io/"
+    },
+    "ampl": {
+      "chainId": 56,
+      "decimals": 9,
+      "symbol": "AMPL",
+      "name": "AMPL Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
+      "projectLink": "https://www.ampleforth.org/"
+    },
+    "o3": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "O3",
+      "name": "O3 Swap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+      "projectLink": "https://o3swap.com/"
+    },
+    "hai": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "HAI",
+      "name": "Hacken Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xaA9E582e5751d703F85912903bacADdFed26484C",
+      "projectLink": "https://hacken.io/"
+    },
+    "htb": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "HTB",
+      "name": "Hotbit Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4e840AADD28DA189B9906674B4Afcb77C128d9ea",
+      "projectLink": "https://www.hotbit.io/"
+    },
+    "woo": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WOO",
+      "name": "Wootrade Network Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+      "projectLink": "https://woo.network/"
+    },
+    "$dg": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "$DG",
+      "name": "Decentral Games Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x9Fdc3ae5c814b79dcA2556564047C5e7e5449C19",
+      "projectLink": "https://decentral.games/"
+    },
+    "axs": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "AXS",
+      "name": "Binance-Pegged Axie Infinity Shard",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
+      "projectLink": "https://axieinfinity.com/"
+    },
+    "c98": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "c98",
+      "name": "Coin98 Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6",
+      "projectLink": "https://coin98.com/"
+    },
+    "pots": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "POTS",
+      "name": "Moonpot Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3Fcca8648651E5b974DD6d3e50F61567779772A8",
+      "projectLink": "https://moonpot.com/"
+    },
+    "gnt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "GNT",
+      "name": "GreenTrust Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF750A26EB0aCf95556e8529E72eD530f3b60f348",
+      "projectLink": "https://www.greentrusttoken.com/"
+    },
+    "rusd": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "rUSD",
+      "name": "rUSD Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x07663837218A003e66310a01596af4bf4e44623D",
+      "projectLink": "https://appv2.rampdefi.com/#/"
+    },
+    "bp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BP",
+      "name": "BunnyPark Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xACB8f52DC63BB752a51186D1c55868ADbFfEe9C1",
+      "projectLink": "https://www.bunnypark.com/"
+    },
+    "sfund": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SFUND",
+      "name": "Seedify Fund Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x477bC8d23c634C154061869478bce96BE6045D12",
+      "projectLink": "https://seedify.fund/"
+    },
+    "naos": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "NAOS",
+      "name": "NAOSToken",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x758d08864fB6cCE3062667225ca10b8F00496cc2",
+      "projectLink": "https://naos.finance/"
+    },
+    "cart": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CART",
+      "name": "CryptoArt.ai",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e",
+      "projectLink": "https://cryptoart.ai/"
+    },
+    "light": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "LIGHT",
+      "name": "Lightning",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x037838b556d9c9d654148a284682C55bB5f56eF4",
+      "projectLink": "https://lightningprotocol.finance/"
+    },
+    "mcb": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MCB",
+      "name": "MCDEX",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5fE80d2CD054645b9419657d3d10d26391780A7B",
+      "projectLink": "https://mcdex.io/homepage/"
+    },
+    "lazio": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "LAZIO",
+      "name": "FC Lazio Fan Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x77d547256A2cD95F32F67aE0313E450Ac200648d",
+      "projectLink": "https://launchpad.binance.com/en/subscription/LAZIO_BNB"
+    },
+    "arv": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "ARV",
+      "name": "ARIVA",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6679eB24F59dFe111864AEc72B443d1Da666B360",
+      "projectLink": "https://ariva.digital"
+    },
+    "moni": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MONI",
+      "name": "Monsta Infinite",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x9573c88aE3e37508f87649f87c4dd5373C9F31e0",
+      "projectLink": "https://monstainfinite.com/"
+    },
+    "xms": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "XMS",
+      "name": "Mars Ecosystem",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7859B01BbF675d67Da8cD128a50D155cd881B576",
+      "projectLink": "https://marsecosystem.com/"
+    },
+    "zoo": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ZOO",
+      "name": "ZOO Crypto World",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1D229B958D5DDFca92146585a8711aECbE56F095",
+      "projectLink": "https://zoogame.finance/"
+    },
+    "fina": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "FINA",
+      "name": "Defina Finance",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x426c72701833fdDBdFc06c944737C6031645c708",
+      "projectLink": "https://defina.finance/"
+    },
+    "dar": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "DAR",
+      "name": "Mines of Dalarnia",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978",
+      "projectLink": "https://www.minesofdalarnia.com/"
+    },
+    "xwg": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "XWG",
+      "name": "X World Games",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc",
+      "projectLink": "https://xwg.games/"
+    },
+    "eternal": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ETERNAL",
+      "name": "CryptoMines Eternal",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xD44FD09d74cd13838F137B590497595d6b3FEeA4",
+      "projectLink": "https://cryptomines.app/"
+    },
+    "porto": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "PORTO",
+      "name": "FC Porto Fan Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x49f2145d6366099e13B10FbF80646C0F377eE7f6",
+      "projectLink": "https://launchpad.binance.com/en/subscription/PORTO_BNB"
+    },
+    "kart": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "KART",
+      "name": "Dragon Kart",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8BDd8DBcBDf0C066cA5f3286d33673aA7A553C10",
+      "projectLink": "https://dragonkart.com/"
+    },
+    "qi": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "QI",
+      "name": "BENQI",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+      "projectLink": "https://benqi.fi/"
+    },
+    "sheesha": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SHEESHA",
+      "name": "Sheesha Finance",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
+      "projectLink": "https://www.sheeshafinance.io/"
+    },
+    "bcoin": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BCOIN",
+      "name": "Bomb Crypto",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x00e1656e45f18ec6747F5a8496Fd39B50b38396D",
+      "projectLink": "https://bombcrypto.io/"
+    },
+    "quidd": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "QUIDD",
+      "name": "Quidd Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed",
+      "projectLink": "https://www.quiddtoken.com/"
+    },
+    "santos": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "SANTOS",
+      "name": "FC Santos Fan Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
+      "projectLink": "https://launchpad.binance.com/en/launchpool/SANTOS_BNB"
+    },
+    "nabox": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "NABOX",
+      "name": "Nabox Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x755f34709E369D37C6Fa52808aE84A32007d1155",
+      "projectLink": "https://nabox.io/"
+    },
+    "xcv": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "XCV",
+      "name": "XCarnival",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4be63a9b26EE89b9a3a13fd0aA1D0b2427C135f8",
+      "projectLink": "https://xcarnival.fi/"
+    },
+    "idia": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "IDIA",
+      "name": "Impossible Decentralized Incubator Access Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89",
+      "projectLink": "https://impossible.finance/"
+    },
+    "tt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "TT",
+      "name": "ThunderCore",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x990E7154bB999FAa9b2fa5Ed29E822703311eA85",
+      "projectLink": "https://www.thundercore.com/"
+    },
+    "gmee": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "GMEE",
+      "name": "GAMEE",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x84e9a6F9D240FdD33801f7135908BfA16866939A",
+      "projectLink": "https://www.gamee.com/token"
+    },
+    "htd": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "HTD",
+      "name": "HeroesTD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5E2689412Fae5c29BD575fbe1d5C1CD1e0622A8f",
+      "projectLink": "https://heroestd.io/"
+    },
+    "dpt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DPT",
+      "name": "Diviner Protocol",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xE69cAef10A488D7AF31Da46c89154d025546e990",
+      "projectLink": "https://diviner.finance/"
+    },
+    "thg": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "THG",
+      "name": "Thetan Gem",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x9fD87aEfe02441B123c3c32466cD9dB4c578618f",
+      "projectLink": "https://thetanarena.com/"
+    },
+    "ccar": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CCAR",
+      "name": "CryptoCars",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x50332bdca94673F33401776365b66CC4e81aC81d",
+      "projectLink": "https://cryptocars.me/"
+    },
+    "high": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "HIGH",
+      "name": "Highstreet Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63",
+      "projectLink": "https://highstreet.market/"
+    },
+    "sdao": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SDAO",
+      "name": "Singularity Dao",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
+      "projectLink": "https://app.singularitydao.ai/"
+    },
+    "antex": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "ANTEX",
+      "name": "Antex",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xCA1aCAB14e85F30996aC83c64fF93Ded7586977C",
+      "projectLink": "https://antex.org/"
+    },
+    "bbt": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "BBT",
+      "name": "BitBook",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xD48474E7444727bF500a32D5AbE01943f3A59A64",
+      "projectLink": "https://www.bitbook.network/"
+    },
+    "woop": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WOOP",
+      "name": "Woonkly Power",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8b303d5BbfBbf46F1a4d9741E491e06986894e18",
+      "projectLink": "https://www.woonkly.com/"
+    },
+    "gm": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "GM",
+      "name": "GoldMiner",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe2604C9561D490624AA35e156e65e590eB749519",
+      "projectLink": "https://goldminer.games/"
+    },
+    "aog": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "AOG",
+      "name": "AgeOfGods",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x40C8225329Bd3e28A043B029E0D07a5344d2C27C",
+      "projectLink": "https://ageofgods.net/"
+    },
+    "deprecated_8pay": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "8PAY",
+      "name": "8PAY Network",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xFeea0bDd3D07eb6FE305938878C0caDBFa169042",
+      "projectLink": "https://8pay.network/"
+    },
+    "8payV2": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "8PAY v2",
+      "name": "8PAY Network v2",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6EaDc05928ACd93eFB3FA0DFbC644D96C6Aa1Df8",
+      "projectLink": "https://8pay.network/"
+    },
+    "bath": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BATH",
+      "name": "Battle Hero",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0bc89aa98Ad94E6798Ec822d0814d934cCD0c0cE",
+      "projectLink": "https://battlehero.io/"
+    },
+    "insur": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "INSUR",
+      "name": "Bsc-Peg INSUR Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30",
+      "projectLink": "https://www.insurace.io/"
+    },
+    "froyo": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "FROYO",
+      "name": "Froyo Games",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9",
+      "projectLink": "https://froyo.games/"
+    },
+    "apx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "APX",
+      "name": "ApolloX Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3",
+      "projectLink": "https://www.apollox.finance/"
+    },
+    "prl": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PRL",
+      "name": "Parallel Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xd07e82440A395f3F3551b42dA9210CD1Ef4f8B24",
+      "projectLink": "https://theparallel.io"
+    },
+    "fuse": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "FUSE",
+      "name": "Fuse Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5857c96DaE9cF8511B08Cb07f85753C472D36Ea3",
+      "projectLink": "https://fuse.io/"
+    },
+    "ertha": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ERTHA",
+      "name": "Ertha Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x62823659d09F9F9D2222058878f89437425eB261",
+      "projectLink": "https://ertha.io/"
+    },
+    "raca": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "RACA",
+      "name": "Radio Caca V2",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
+      "projectLink": "https://www.radiocaca.com/#/home"
+    },
+    "gear": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "GEAR",
+      "name": "MetaGear Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xb4404DaB7C0eC48b428Cf37DeC7fb628bcC41B36",
+      "projectLink": "https://metagear.game/"
+    },
+    "ach": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "ACH",
+      "name": "Alchemy Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xBc7d6B50616989655AfD682fb42743507003056D",
+      "projectLink": "https://alchemytech.io/"
+    },
+    "btt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BTT",
+      "name": "BitTorrent",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x352Cb5E19b12FC216548a2677bD0fce83BaE434B",
+      "projectLink": "https://bittorrent.com/"
+    },
+    "era": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ERA",
+      "name": "Era Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6f9F0c4ad9Af7EbD61Ac5A1D4e0F2227F7B0E5f9",
+      "projectLink": "https://www.era7.io/"
+    },
+    "fight": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "FIGHT",
+      "name": "Fight Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4f39c3319188A723003670c3F9B9e7EF991E52F3",
+      "projectLink": "https://www.cryptofightclub.io/"
+    },
+    "loa": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "LOA",
+      "name": "League Of Ancients",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50",
+      "projectLink": "https://www.leagueofancients.com/"
+    },
+    "duet": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DUET",
+      "name": "Duet Governance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x95EE03e1e2C5c4877f9A298F1C0D6c98698FAB7B",
+      "projectLink": "https://duet.finance"
+    },
+    "gmt": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "GMT",
+      "name": "Green Metaverse Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+      "projectLink": "https://www.stepn.com/"
+    },
+    "bsw": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BSW",
+      "name": "Biswap",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+      "projectLink": "https://biswap.org/"
+    },
+    "tem": {
+      "chainId": 56,
+      "decimals": 9,
+      "symbol": "TEM",
+      "name": "TemplarDAO",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x19e6BfC1A6e4B042Fb20531244D47E252445df01",
+      "projectLink": "https://templar.finance/"
+    },
+    "pex": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PEX",
+      "name": "PearDAO",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6a0b66710567b6beb81A71F7e9466450a91a384b",
+      "projectLink": "https://peardao.io/"
+    },
+    "yel": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "YEL",
+      "name": "YEL",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xD3b71117E6C1558c1553305b44988cd944e97300",
+      "projectLink": "https://yel.finance/"
+    },
+    "tinc": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "TINC",
+      "name": "Tiny Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x05aD6E30A855BE07AfA57e08a4f30d00810a402e",
+      "projectLink": "https://tinyworlds.io/"
+    },
+    "happy": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "Happy",
+      "name": "HappyFans",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF5d8A096CcCb31b9D7bcE5afE812BE23e3D4690d",
+      "projectLink": "https://happyfans.club/"
+    },
+    "wzrd": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WZRD",
+      "name": "Wizardia Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xFa40d8FC324bcdD6Bbae0e086De886c571C225d4",
+      "projectLink": "https://wizardia.io/"
+    },
+    "ceek": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CEEK",
+      "name": "CEEK",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
+      "projectLink": "https://www.ceek.com/"
+    },
+    "abnbc": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "aBNBc",
+      "name": "Ankr BNB Reward Bearing Certificate",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xE85aFCcDaFBE7F2B096f268e31ccE3da8dA2990A",
+      "projectLink": "https://www.ankr.com/"
+    },
+    "ankr": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ANKR",
+      "name": "Ankr",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
+      "projectLink": "https://www.ankr.com/"
+    },
+    "gal": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "GAL",
+      "name": "Galxe",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5",
+      "projectLink": "https://galaxy.eco/"
+    },
+    "xcn": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "XCN",
+      "name": "Chain",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b",
+      "projectLink": "https://chain.com/"
+    },
+    "metis": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "Metis",
+      "name": "Metis Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe552Fb52a4F19e44ef5A967632DBc320B0820639",
+      "projectLink": "https://www.metis.io/"
+    },
+    "peak": {
+      "chainId": 56,
+      "decimals": 8,
+      "symbol": "PEAK",
+      "name": "PEAKDEFI",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78",
+      "projectLink": "https://peakdefi.com/"
+    },
+    "nbt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "NBT",
+      "name": "NanoByte Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1D3437E570e93581Bd94b2fd8Fbf202d4a65654A",
+      "projectLink": "https://www.nanobyte.finance/"
+    },
+    "trivia": {
+      "chainId": 56,
+      "decimals": 3,
+      "symbol": "TRIVIA",
+      "name": "Trivian Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xb465f3cb6Aba6eE375E12918387DE1eaC2301B05",
+      "projectLink": "https://trivians.io/"
+    },
+    "mhunt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MHUNT",
+      "name": "MetaShooter",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2C717059b366714d267039aF8F59125CAdce6D8c",
+      "projectLink": "https://metashooter.gg/"
+    },
+    "ole": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "OLE",
+      "name": "OpenLeverage",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa865197A84E780957422237B5D152772654341F3",
+      "projectLink": "https://openleverage.finance/"
+    },
+    "xcad": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "XCAD",
+      "name": "Chainport.io-Peg XCAD Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa026Ad2ceDa16Ca5FC28fd3C72f99e2C332c8a26",
+      "projectLink": "https://xcadnetwork.com/"
+    },
+    "shell": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SHELL",
+      "name": "Meta Apes Shell",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x208cfEc94d2BA8B8537da7A9BB361c6baAD77272",
+      "projectLink": "https://metaapesgame.com/"
+    },
+    "peel": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PEEL",
+      "name": "Meta Apes Peel",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB",
+      "projectLink": "https://metaapesgame.com/"
+    },
+    "stkbnb": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "stkBNB",
+      "name": "Staked BNB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16",
+      "projectLink": "https://pstake.finance/bnb"
+    },
+    "pstake": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PSTAKE",
+      "name": "pStake Finance",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4C882ec256823eE773B25b414d36F92ef58a7c0C",
+      "projectLink": "https://pstake.finance/"
+    },
+    "wom": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WOM",
+      "name": "Wombat Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1",
+      "projectLink": "https://www.wombat.exchange/"
+    },
+    "hay": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "lisUSD",
+      "name": "Lista USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+      "projectLink": "https://lista.org"
+    },
+    "spin": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SPIN",
+      "name": "Spintop",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6AA217312960A21aDbde1478DC8cBCf828110A67",
+      "projectLink": "https://spintop.network/"
+    },
+    "snfts": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SNFTS",
+      "name": "Seedify NFT Space",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6f51A1674BEFDD77f7ab1246b83AdB9f13613762",
+      "projectLink": "https://snfts.seedify.fund/"
+    },
+    "gq": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "GQ",
+      "name": "Galactic Quadrant",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF700D4c708C2be1463E355F337603183D20E0808",
+      "projectLink": "https://outerringmmo.com/"
+    },
+    "hoop": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "HOOP",
+      "name": "Chibi Dinos",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF19cfb40B3774dF6Eed83169Ad5aB0Aaf6865F25",
+      "projectLink": "https://www.chibidinos.io/"
+    },
+    "co": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "CO",
+      "name": "CO",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x936B6659Ad0C1b244Ba8Efe639092acae30dc8d6",
+      "projectLink": "https://corite.com/"
+    },
+    "krs": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "KRS",
+      "name": "Kingdom Raids",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x37b53894e7429f794B56F22a32E1695567Ee9913",
+      "projectLink": "https://kingdomraids.io/"
+    },
+    "wmx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WMX",
+      "name": "Wombex Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD",
+      "projectLink": "https://wombex.finance/"
+    },
+    "mgp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MGP",
+      "name": "Magpie Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xD06716E1Ff2E492Cc5034c2E81805562dd3b45fa",
+      "projectLink": "https://www.magpiexyz.io/"
+    },
+    "hook": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "HOOK",
+      "name": "Hook Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa260E12d2B924cb899AE80BB58123ac3fEE1E2F0",
+      "projectLink": "https://hooked.io/"
+    },
+    "hft": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "HFT",
+      "name": "Hashflow",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x44Ec807ce2F4a6F2737A92e985f318d035883e47",
+      "projectLink": "https://www.hashflow.com/"
+    },
+    "squad": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SQUAD",
+      "name": "Token SQUAD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd",
+      "projectLink": "https://ssquad.games/"
+    },
+    "zbc": {
+      "chainId": 56,
+      "decimals": 9,
+      "symbol": "ZBC",
+      "name": "ZEBEC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x37a56cdcD83Dce2868f721De58cB3830C44C6303",
+      "projectLink": "https://zebec.io/"
+    },
+    "primal": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PRIMAL",
+      "name": "PRIMAL Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xCb5327Ed4649548e0d73E70b633cdfd99aF6Da87",
+      "projectLink": "https://www.getprimal.com/"
+    },
+    "ankrbnb": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ankrBNB",
+      "name": "Ankr Staked BNB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827",
+      "projectLink": "https://www.ankr.com/staking-crypto/"
+    },
+    "arena": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ARENA",
+      "name": "ESPL ARENA",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xCfFD4D3B517b77BE32C76DA768634dE6C738889B",
+      "projectLink": "https://espl.co/"
+    },
+    "champ": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CHAMP",
+      "name": "Ultimate Champions Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7e9AB560d37E62883E882474b096643caB234B65",
+      "projectLink": "https://beta.ultimate-champions.com/"
+    },
+    "axlusdc": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "axlUSDC",
+      "name": "Axelar Wrapped USDC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3",
+      "projectLink": "https://axelarscan.io/assets/"
+    },
+    "csix": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CSIX",
+      "name": "Carbon",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x04756126F044634C9a0f0E985e60c88a51ACC206",
+      "projectLink": "https://carbon.website/"
+    },
+    "bnbx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BNBx",
+      "name": "Liquid Staking BNB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
+      "projectLink": "https://www.staderlabs.com/bnb/liquid-staking/bnbx/"
+    },
+    "sd": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SD",
+      "name": "Stader (Wormhole)",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3BC5AC0dFdC871B365d159f728dd1B9A0B5481E8",
+      "projectLink": "https://www.staderlabs.com/"
+    },
+    "eura": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "EURA",
+      "name": "EURA (previously agEUR)",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
+      "projectLink": "https://app.angle.money/#/"
+    },
+    "caps": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CAPS",
+      "name": "Capsule Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4",
+      "projectLink": "https://www.ternoa.network/en"
+    },
+    "lvl": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "LVL",
+      "name": "Level Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
+      "projectLink": "https://level.finance/"
+    },
+    "unw": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "UNW",
+      "name": "Uniwhale Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5b65cd9feb54F1Df3D0C60576003344079f8Dc06",
+      "projectLink": "https://www.uniwhale.co/"
+    },
+    "id": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ID",
+      "name": "SPACE ID",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
+      "projectLink": "https://space.id/"
+    },
+    "rdnt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "RDNT",
+      "name": "Radiant",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF",
+      "projectLink": "https://radiant.capital/"
+    },
+    "sis": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SIS",
+      "name": "Symbiosis",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF98b660AdF2ed7d9d9D9dAACC2fb0CAce4F21835",
+      "projectLink": "https://symbiosis.finance/"
+    },
+    "ankrETH": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ankrETH",
+      "name": "Ankr Staked ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
+      "projectLink": "https://www.ankr.com/"
+    },
+    "axl": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "AXL",
+      "name": "Axelar",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65",
+      "projectLink": "https://axelar.network/"
+    },
+    "ush": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "USH",
+      "name": "unshETHing_Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x91d6d6aF7635B7b23A8CED9508117965180e2362",
+      "projectLink": "https://unsheth.xyz/"
+    },
+    "unshETH": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "unshETH",
+      "name": "unshETH Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
+      "projectLink": "https://unsheth.xyz/"
+    },
+    "wbeth": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "wBETH",
+      "name": "Wrapped Binance Beacon ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa2E3356610840701BDf5611a53974510Ae27E2e1",
+      "projectLink": "https://ethereum.org/en/roadmap/beacon-chain/"
+    },
+    "mwbeth": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "mwBETH",
+      "name": "Bridged mwBETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7dC91cBD6CB5A3E6A95EED713Aa6bF1d987146c8",
+      "projectLink": "https://ethereum.org/en/roadmap/beacon-chain/"
+    },
+    "edu": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "EDU",
+      "name": "EDU Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xBdEAe1cA48894A1759A8374D63925f21f2Ee2639",
+      "projectLink": "https://www.opencampus.xyz/"
+    },
+    "pepe": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
+      "projectLink": "https://www.pepe.vip/"
+    },
+    "cgpt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CGPT",
+      "name": "ChainGPT",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x9840652DC04fb9db2C43853633f0F62BE6f00f98",
+      "projectLink": "https://www.chaingpt.org/"
+    },
+    "play": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PLAY",
+      "name": "PLAY",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xD069599E718f963bD84502b49ba8F8657fAF5B3a",
+      "projectLink": "https://xcadnetwork.com/play"
+    },
+    "tusd": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "TUSD",
+      "name": "TrueUSD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9",
+      "projectLink": "https://tusd.io/"
+    },
+    "xalgo": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "xALGO",
+      "name": "Governance xAlgo",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0034719300501B06E10Ebb1D07ea5967301F0941",
+      "projectLink": "https://folks.finance/"
+    },
+    "pendle": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PENDLE",
+      "name": "Pendle",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xb3Ed0A426155B79B898849803E3B36552f7ED507",
+      "projectLink": "https://www.pendle.finance/"
+    },
+    "mpendle": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "mPENDLE",
+      "name": "mPendle",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0465aad9da170798433F4aB7fa7Ec8b9b9bf0Bb1",
+      "projectLink": "https://www.pendle.magpiexyz.io/stake"
+    },
+    "usdd": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "USDD",
+      "name": "Decentralized USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xd17479997F34dd9156Deef8F95A52D81D265be9c",
+      "projectLink": "https://usdd.io/"
+    },
+    "eqb": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "EQB",
+      "name": "Equilibria Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x374Ca32fd7934c5d43240E1e73fa9B2283468609",
+      "projectLink": "https://equilibria.fi/home"
+    },
+    "sable": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SABLE",
+      "name": "SABLE",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1eE098cBaF1f846d5Df1993f7e2d10AFb35A878d",
+      "projectLink": "https://sable.finance/"
+    },
+    "snbnb": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "slisBNB",
+      "name": "Staked Lista BNB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xB0b84D294e0C75A6abe60171b70edEb2EFd14A1B",
+      "projectLink": "https://lista.org/"
+    },
+    "planet": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PLANET",
+      "name": "PLANET",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xCa6d678e74f553f0E59cccC03ae644a3c2c5EE7d",
+      "projectLink": "https://joinourplanet.com/"
+    },
+    "dck": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DCK",
+      "name": "DexCheck",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x16faF9DAa401AA42506AF503Aa3d80B871c467A3",
+      "projectLink": "https://dexcheck.ai/"
+    },
+    "cyber": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CYBER",
+      "name": "CyberConnect",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x14778860E937f509e651192a90589dE711Fb88a9",
+      "projectLink": "https://cyberconnect.me/"
+    },
+    "wncg": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WNCG",
+      "name": "WrappedNCG",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x52242cbAb41e290E9E17CCC50Cc437bB60020a9d",
+      "projectLink": "https://nine-chronicles.com/"
+    },
+    "rpg": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "RPG",
+      "name": "Rangers Protocol",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x61dc650C10Ec3c758d251Cd2D1Ab45AF1A43e941",
+      "projectLink": "https://www.rangersprotocol.com/"
+    },
+    "deprecated_rpg": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "RPGOLD",
+      "name": "Rangers Protocol(Deprecated)",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xc2098a8938119A52B1F7661893c0153A6CB116d5",
+      "projectLink": "https://www.rangersprotocol.com/"
+    },
+    "MIX": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MIX",
+      "name": "MixMarvel Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xCF1B55D79E824da0Ae0652F96C66fe33263d743f",
+      "projectLink": "https://www.mixmarvel.com/"
+    },
+    "deprecated_MIX": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MIXOLD",
+      "name": "MixMarvel Token(Deprecated)",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x398f7827DcCbeFe6990478876bBF3612D93baF05",
+      "projectLink": "https://www.mixmarvel.com/"
+    },
+    "mbx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MBX",
+      "name": "MARBLEX on BNB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF95a5532D67C944dfa7EDDD2f8c358Fe0dc7FAc2",
+      "projectLink": "https://www.marblex.io/tc"
+    },
+    "esRDNT": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "esRDNT",
+      "name": "Radpie esRDNT",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x016aBB5E48A7B64C2014f8834ecbE56CD72BF13D",
+      "projectLink": "https://radiant.capital/"
+    },
+    "fdusd": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "FDUSD",
+      "name": "First Digital USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+      "projectLink": "https://firstdigitallabs.com/"
+    },
+    "stg": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "STG",
+      "name": "StargateToken",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
+      "projectLink": "https://stargate.finance/"
+    },
+    "deprecated_sdcake": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "sdCAKE",
+      "name": "Stake DAO CAKE",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF79B275e0B602D82B822895074552e487412A41a",
+      "projectLink": "https://lockers.stakedao.org/"
+    },
+    "sdcake": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "sdCAKE",
+      "name": "Stake DAO CAKE",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6a1c1447F97B27dA23dC52802F5f1435b5aC821A",
+      "projectLink": "https://lockers.stakedao.org/"
+    },
+    "kuji": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "KUJI",
+      "name": "Kujira native asset",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x073690e6CE25bE816E68F32dCA3e11067c9FB5Cc",
+      "projectLink": "https://kujira.network/"
+    },
+    "bonk": {
+      "chainId": 56,
+      "decimals": 5,
+      "symbol": "Bonk",
+      "name": "Bonk",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA697e272a73744b343528C3Bc4702F2565b2F422",
+      "projectLink": "https://bonkcoin.com"
+    },
+    "ace": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ACE",
+      "name": "ACEToken",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xc27A719105A987b4c34116223CAE8bd8F4B5def4",
+      "projectLink": "https://ace.fusionist.io/"
+    },
+    "aioz": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "AIOZ",
+      "name": "AIOZ Network",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x33d08D8C7a168333a85285a68C0042b39fC3741D",
+      "projectLink": "https://aioz.network/"
+    },
+    "usdv": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "USDV",
+      "name": "USDV",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+      "projectLink": "https://usdv.money/"
+    },
+    "rdp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "RDP",
+      "name": "Radpie",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x27c073e8427aa493a90b8dC8b73A89e670FD77bB",
+      "projectLink": "https://www.radiant.magpiexyz.io/stake"
+    },
+    "sats": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "sats",
+      "name": "sats",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x143D7A700a533B4baF6D693449b278A8A2F5927d",
+      "projectLink": "https://satscoin.vip/"
+    },
+    "ordi": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ordi",
+      "name": "ordi",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe2aE1a99bBd2eFab0a5C38f2146B7aCE61aBC5cE",
+      "projectLink": ""
+    },
+    "mubi": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MUBI",
+      "name": "MUBI",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x38e382F74dfb84608F3C1F10187f6bEf5951DE93",
+      "projectLink": "https://multibit.exchange/"
+    },
+    "nfp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "NFP",
+      "name": "NFPrompt Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x75E8ddB518bB757b4282cd5b83bb70d4101D12FB",
+      "projectLink": "https://nfprompt.io/"
+    },
+    "ckp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "CKP",
+      "name": "Cakepie",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2B5D9ADea07B590b638FFc165792b2C610EdA649",
+      "projectLink": "https://www.pancake.magpiexyz.io/"
+    },
+    "pnp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "PNP",
+      "name": "Penpie Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5012c90F14d190607662CA8344120812Aaa2639D",
+      "projectLink": "https://www.pendle.magpiexyz.io/stake"
+    },
+    "mcake": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "mCAKE",
+      "name": "mCake Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x581FA684D0Ec11ccb46B1d92F1F24C8A3F95C0CA",
+      "projectLink": "https://www.pancake.magpiexyz.io/stake"
+    },
+    "insp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "INSP",
+      "name": "INSPECT",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8D279274789CceC8af94a430A5996eAaCE9609A9",
+      "projectLink": "https://www.inspect.xyz/"
+    },
+    "wrose": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "WROSE",
+      "name": "Wrapped ROSE",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF00600eBC7633462BC4F9C61eA2cE99F5AAEBd4a",
+      "projectLink": "https://overnight.fi"
+    },
+    "irl": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "IRL",
+      "name": "Rebase (IRL)",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa80221D067603e30060F75E2458AA361f8eE5402",
+      "projectLink": "https://rebase.gg/"
+    },
+    "huahua": {
+      "chainId": 56,
+      "decimals": 6,
+      "symbol": "HUAHUA",
+      "name": "Chihuahua native asset",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x9fD470124903957f299a1C90fEdA9043A4619cc6",
+      "projectLink": "https://www.chihuahua.wtf/"
+    },
+    "anyInu": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "AI",
+      "name": "Any Inu",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+      "projectLink": "https://www.anyinu.xyz/"
+    },
+    "ovn": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "OVN",
+      "name": "OVN",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x259B30C916e440FB79747cD559207FfdaBBae057",
+      "projectLink": "https://overnight.fi/"
+    },
+    "manta": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MANTA",
+      "name": "Manta",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8581cc815e40615998F4561F3e24e68066293595",
+      "projectLink": "https://manta.network/"
+    },
+    "dlp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DLP",
+      "name": "WBNB-RDNT Pancake LP",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x346575fC7f07E6994D76199E41D13dC1575322E1",
+      "projectLink": "https://pancakeswap.finance"
+    },
+    "mdlp": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "mDLP",
+      "name": "Magpie locked DLP",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x11727E5b7Fa33FF4D380F3E7E877F19876c25b97",
+      "projectLink": "https://www.radiant.magpiexyz.io/stake"
+    },
+    "rbnb": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "rBNB",
+      "name": "StaFi rBNB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xF027E525D491ef6ffCC478555FBb3CFabB3406a6",
+      "projectLink": "https://www.stafi.io/"
+    },
+    "aitech": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "AITECH",
+      "name": "AITECH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2D060Ef4d6BF7f9e5edDe373Ab735513c0e4F944",
+      "projectLink": "https://www.aitech.io/"
+    },
+    "gtai": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "GTAI",
+      "name": "GT Protocol",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x003d87d02A2A01E9E8a20f507C83E15DD83A33d1",
+      "projectLink": "https://www.gt-protocol.io/"
+    },
+    "sol": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SOL",
+      "name": "SOLANA",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+      "projectLink": "https://solana.com/"
+    },
+    "dmail": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DMAIL",
+      "name": "Dmail Network",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xcC6f1e1B87cfCbe9221808d2d85C501aab0B5192",
+      "projectLink": "https://dmail.ai/"
+    },
+    "defi": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DEFI",
+      "name": "DeFi",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6d106C0B8d2f47c5465bdBD58D1Be253762cBBC1",
+      "projectLink": "https://de.fi/"
+    },
+    "xrgb": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "XRGB",
+      "name": "XRGB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a",
+      "projectLink": "https://xrgb.xyz"
+    },
+    "osak": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "OSAK",
+      "name": "Osaka Protocol",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x11cd72f7A4B699c67f225ca8aBb20bC9F8DB90c7",
+      "projectLink": "https://osaka.win/"
+    },
+    "bnx": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "BNX",
+      "name": "BinaryX",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5b1f874d0b0C5ee17a495CbB70AB8bf64107A3BD",
+      "projectLink": "https://www.binaryx.pro/?cmc"
+    },
+    "pxETH": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "pxETH",
+      "name": "Pirex Ether OFT",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x300d2c875C6fb8Ce4bf5480B4d34b7c9ea8a33A4",
+      "projectLink": "https://dineroismoney.com/"
+    },
+    "fet": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "FET",
+      "name": "FetchToken",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x031b41e504677879370e9DBcF937283A8691Fa7f",
+      "projectLink": "https://fetch.ai/"
+    },
+    "ezETH": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "ezETH",
+      "name": "Renzo Restaked ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "projectLink": "https://www.renzoprotocol.com/"
+    },
+    "trump": {
+      "chainId": 56,
+      "decimals": 9,
+      "symbol": "TRUMP",
+      "name": "MAGA",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4eA98c1999575aaadfb38237Dd015c5E773F75a2",
+      "projectLink": "https://magamemecoin.com/"
+    },
+    "chat": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "DECHAT",
+      "name": "CHAT",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xD69ee2e508363FEd57f89917D5ca03e715ee5519",
+      "projectLink": "https://www.dechat.io/home"
+    },
+    "mb4": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MB4",
+      "name": "Matthew Box 404",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4536819095a8969c94362ba130EE0bB1cda714Cb",
+      "projectLink": "https://projectmatthew.io/"
+    },
+    "mc": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MC",
+      "name": "Matthew Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xAE493a1F8bbE36BA8E687352F638d4c07C54f8d7",
+      "projectLink": "https://projectmatthew.io/"
+    },
+    "octavia": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "VIA",
+      "name": "Octavia",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x21ac3bB914f90A2Bb1a16088E673a9fdDa641434",
+      "projectLink": "https://octavia.one/"
+    },
+    "grape": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "GRAPE",
+      "name": "Grape coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x555296de6A86E72752e5C5DC091FE49713Aa145C",
+      "projectLink": "https://www.joingrapes.com/"
+    },
+    "ego": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "EGO",
+      "name": "Paysenger EGO",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x44a21B3577924DCD2e9C81A3347D204C36a55466",
+      "projectLink": "https://egoco.in/"
+    },
+    "nmt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "NMT",
+      "name": "NetMind Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x03AA6298F1370642642415EDC0db8b957783e8D6",
+      "projectLink": "https://power.netmind.ai/"
+    },
+    "sdt": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SDT",
+      "name": "Stake DAO Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x07715EE7219B07b8e01CC7d2787f4e5e75860383",
+      "projectLink": "https://www.stakedao.org/"
+    },
+    "masa": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "MASA",
+      "name": "Masa Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x944824290CC12F31ae18Ef51216A223Ba4063092",
+      "projectLink": "https://www.masa.finance/"
+    },
+    "weEth": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "weETH",
+      "name": "Wrapped eETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+      "projectLink": "https://www.ether.fi/"
+    },
+    "solvbtc": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "SolvBTC",
+      "name": "Solv BTC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4aae823a6a0b376De6A78e74eCC5b079d38cBCf7",
+      "projectLink": "https://app.solv.finance/solvbtc"
+    },
+    "stone": {
+      "chainId": 56,
+      "decimals": 18,
+      "symbol": "STONE",
+      "name": "StakeStone Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x80137510979822322193FC997d400D5A6C747bf7",
+      "projectLink": "https://stakestone.io/"
+    }
+  },
+  "97": {
+    "wbnb": {
+      "chainId": 97,
+      "decimals": 18,
+      "symbol": "WBNB",
+      "name": "Wrapped BNB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "projectLink": "https://www.binance.org"
+    },
+    "cake": {
+      "chainId": 97,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8d008B313C1d6C7fE2982F62d32Da7507cF43551",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "busd": {
+      "chainId": 97,
+      "decimals": 18,
+      "symbol": "BUSD",
+      "name": "Binance USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xaB1a4d4f1D656d2450692D237fdD6C7f9146e814",
+      "projectLink": "https://www.paxos.com/busd/"
+    },
+    "syrup": {
+      "chainId": 97,
+      "decimals": 18,
+      "symbol": "SYRUP",
+      "name": "SyrupBar Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xfE1e507CeB712BDe086f3579d2c03248b2dB77f9",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "hbtc": {
+      "chainId": 97,
+      "decimals": 18,
+      "symbol": "HBTC",
+      "name": "Huobi BTC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3Fb6a6C06c7486BD194BB99a078B89B9ECaF4c82"
+    },
+    "wbtc": {
+      "chainId": 97,
+      "decimals": 8,
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xfC8bFbe9644e1BC836b8821660593e7de711e564"
+    },
+    "usdc": {
+      "chainId": 97,
+      "decimals": 18,
+      "symbol": "USDC",
+      "name": "Binance-Peg USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xCA8eB2dec4Fe3a5abbFDc017dE48E461A936623D"
+    },
+    "usdt": {
+      "chainId": 97,
+      "decimals": 18,
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0fB5D7c73FA349A90392f873a4FA1eCf6a3d0a96"
+    },
+    "mockBusd": {
+      "chainId": 97,
+      "decimals": 18,
+      "symbol": "BUSD",
+      "name": "Binance USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3304dd20f6Fe094Cb0134a6c8ae07EcE26c7b6A7"
+    },
+    "mockB": {
+      "chainId": 97,
+      "decimals": 18,
+      "symbol": "MOCK B",
+      "name": "MOCK B",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x828E3FC56dD48E072e3B6F3C4FD4DDB4733c2C5e"
+    },
+    "mockA": {
+      "chainId": 97,
+      "decimals": 18,
+      "symbol": "MOCK A",
+      "name": "MOCK A",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xc1eD9955C11585F47d0d6BfBC29034349A746a81"
+    },
+    "msix": {
+      "chainId": 97,
+      "decimals": 6,
+      "symbol": "MSIX",
+      "name": "MSIX",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xE4a9f36B61a84Dc2495dAf46417bd258a56bDfdD"
+    },
+    "busd_test": {
+      "chainId": 97,
+      "decimals": 18,
+      "symbol": "BUSD",
+      "name": "Binance USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x20354BEA74700B6bd0431005751AB3B881d2571d"
+    }
+  },
+  "204": {
+    "wbnb": {
+      "chainId": 204,
+      "decimals": 18,
+      "symbol": "WBNB",
+      "name": "Wrapped BNB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4200000000000000000000000000000000000006",
+      "projectLink": "https://www.binance.org"
+    },
+    "usdt": {
+      "chainId": 204,
+      "decimals": 18,
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3"
+    },
+    "cake": {
+      "chainId": 204,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2779106e4F4A8A28d77A24c18283651a2AE22D1C",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "alp": {
+      "chainId": 204,
+      "decimals": 18,
+      "symbol": "ALP",
+      "name": "ApolloX LP",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xC8424F526553ac394E9020DB0a878fAbe82b698C",
+      "projectLink": "https://www.apollox.finance/en"
+    },
+    "eth": {
+      "chainId": 204,
+      "decimals": 18,
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+      "projectLink": "https://opbnb.bnbchain.org/en"
+    },
+    "fdusd": {
+      "chainId": 204,
+      "decimals": 18,
+      "symbol": "FDUSD",
+      "name": "First Digital USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "projectLink": "https://firstdigitallabs.com/"
+    },
+    "xcad": {
+      "chainId": 204,
+      "decimals": 18,
+      "symbol": "XCAD",
+      "name": "XCAD Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+      "projectLink": "https://xcadnetwork.com/"
+    }
+  },
+  "280": {
+    "weth": {
+      "chainId": 280,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x02968DB286f24cB18bB5b24903eC8eBFAcf591C0",
+      "projectLink": "https://weth.io"
+    },
+    "usdc": {
+      "chainId": 280,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0faF6df7054946141266420b43783387A78d82A9"
+    },
+    "cake": {
+      "chainId": 280,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xFf2FA31273c1aedB67017B52C625633d2F021f67",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "mock": {
+      "chainId": 280,
+      "decimals": 18,
+      "symbol": "MOCK",
+      "name": "MOCK",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x923AD8C9183A76B1DC341F23B8822AB4f7eBf9E0"
+    },
+    "mockC": {
+      "chainId": 280,
+      "decimals": 18,
+      "symbol": "MOCKC",
+      "name": "MOCKC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6Ea0330F4342cc322F56b3f80D328fDFA5E83DD9"
+    },
+    "mockD": {
+      "chainId": 280,
+      "decimals": 18,
+      "symbol": "MOCKD",
+      "name": "MOCKD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1067FF0B6827a2ee58Bc8A6Aa74d0EeDb147A93C"
+    }
+  },
+  "324": {
+    "weth": {
+      "chainId": 324,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+      "projectLink": "https://weth.io"
+    },
+    "usdc": {
+      "chainId": 324,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4"
+    },
+    "usdt": {
+      "chainId": 324,
+      "decimals": 6,
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C"
+    },
+    "cake": {
+      "chainId": 324,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3A287a06c66f9E95a56327185cA2BDF5f031cEcD",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "tes": {
+      "chainId": 324,
+      "decimals": 18,
+      "symbol": "TES",
+      "name": "Tiny Era Shard",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xCab3F741Fa54e79E34753B95717b23018332b8AC",
+      "projectLink": "https://tinyworlds.io/"
+    },
+    "wbtc": {
+      "chainId": 324,
+      "decimals": 8,
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011"
+    },
+    "busd": {
+      "chainId": 324,
+      "decimals": 18,
+      "symbol": "BUSD",
+      "name": "Binance USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2039bb4116B4EFc145Ec4f0e2eA75012D6C0f181",
+      "projectLink": "https://www.paxos.com/busd/"
+    },
+    "reth": {
+      "chainId": 324,
+      "decimals": 18,
+      "symbol": "rETH",
+      "name": "Rocket Pool ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x32Fd44bB869620C0EF993754c8a00Be67C464806",
+      "projectLink": "https://www.paxos.com/busd/"
+    },
+    "usdPlus": {
+      "chainId": 324,
+      "decimals": 6,
+      "symbol": "USD+",
+      "name": "USD Plus",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8E86e46278518EFc1C5CEd245cBA2C7e3ef11557",
+      "projectLink": "http://usdplus.co"
+    },
+    "wstETH": {
+      "chainId": 324,
+      "decimals": 18,
+      "symbol": "wstETH",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x703b52F2b28fEbcB60E1372858AF5b18849FE867",
+      "projectLink": "https://lido.fi/"
+    },
+    "meow": {
+      "chainId": 324,
+      "decimals": 18,
+      "symbol": "MEOW",
+      "name": "Zeek Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x79db8c67d0c33203da4Efb58F7D325E1e0d4d692",
+      "projectLink": "https://zeekcoin.com/"
+    },
+    "dai": {
+      "chainId": 324,
+      "decimals": 18,
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4B9eb6c0b6ea15176BBF62841C6B2A8a398cb656",
+      "projectLink": "https://makerdao.com/en/"
+    },
+    "wethe": {
+      "chainId": 324,
+      "decimals": 18,
+      "symbol": "WETH.e",
+      "name": "Wrapped Ether Native Bridge",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xf00DAD97284D0c6F06dc4Db3c32454D4292c6813",
+      "projectLink": "https://ethereum.org/"
+    },
+    "grai": {
+      "chainId": 324,
+      "decimals": 18,
+      "symbol": "GRAI",
+      "name": "Gravita Debt Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5FC44E95eaa48F9eB84Be17bd3aC66B6A82Af709",
+      "projectLink": "https://www.gravitaprotocol.com/"
+    },
+    "usdtPlus": {
+      "chainId": 324,
+      "decimals": 7,
+      "symbol": "USDT+",
+      "name": "USDT+",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xBb8D60008A08b1828E02120F1a952D295036eF3d",
+      "projectLink": "https://overnight.fi/"
+    }
+  },
+  "1101": {
+    "weth": {
+      "chainId": 1101,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+      "projectLink": "https://weth.io"
+    },
+    "usdc": {
+      "chainId": 1101,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035"
+    },
+    "usdt": {
+      "chainId": 1101,
+      "decimals": 6,
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d"
+    },
+    "cake": {
+      "chainId": 1101,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0D1E753a25eBda689453309112904807625bEFBe",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "matic": {
+      "chainId": 1101,
+      "decimals": 18,
+      "symbol": "MATIC",
+      "name": "Matic Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+      "projectLink": "https://polygon.technology/polygon-zkevm"
+    },
+    "grai": {
+      "chainId": 1101,
+      "decimals": 18,
+      "symbol": "GRAI",
+      "name": "Gravita Debt Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xCA68ad4EE5c96871EC6C6dac2F714a8437A3Fe66",
+      "projectLink": "https://www.gravitaprotocol.com/"
+    },
+    "wbtc": {
+      "chainId": 1101,
+      "decimals": 8,
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+      "projectLink": "https://bitcoin.org/"
+    },
+    "usdce": {
+      "chainId": 1101,
+      "decimals": 6,
+      "symbol": "USDC.E",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
+      "projectLink": "https://www.centre.io/"
+    },
+    "reth": {
+      "chainId": 1101,
+      "decimals": 18,
+      "symbol": "rETH",
+      "name": "Rocket Pool ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
+      "projectLink": "https://www.rocketpool.net/"
+    },
+    "rsETH": {
+      "chainId": 1101,
+      "decimals": 18,
+      "symbol": "rsETH",
+      "name": "rsETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8C7D118B5c47a5BCBD47cc51789558B98dAD17c5",
+      "projectLink": "https://kelpdao.xyz/"
+    },
+    "wstETH": {
+      "chainId": 1101,
+      "decimals": 18,
+      "symbol": "wstETH",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+      "projectLink": "https://lido.fi/"
+    },
+    "dai": {
+      "chainId": 1101,
+      "decimals": 18,
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+      "projectLink": "https://makerdao.com/"
+    }
+  },
+  "1442": {
+    "weth": {
+      "chainId": 1442,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x30ec47F7DFae72eA79646e6cf64a8A7db538915b",
+      "projectLink": "https://weth.io"
+    },
+    "usdt": {
+      "chainId": 1442,
+      "decimals": 6,
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7379a261bC347BDD445484A91648Abf4A2BDEe5E"
+    },
+    "cake": {
+      "chainId": 1442,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2B3C5df29F73dbF028BA82C33e0A5A6e5800F75e",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "mockA": {
+      "chainId": 1442,
+      "decimals": 18,
+      "symbol": "MOCKA",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa8209d33Bfc9cA15138dDaB6A637f6c4617379c9"
+    },
+    "mockB": {
+      "chainId": 1442,
+      "decimals": 18,
+      "symbol": "MOCKB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x62d907974C0b72334373f34b8272467857402Ec3"
+    },
+    "mockC": {
+      "chainId": 1442,
+      "decimals": 18,
+      "symbol": "MOCKC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xf317eD77Baed624d0EA2384AA88D91B774a9b009"
+    }
+  },
+  "5611": {
+    "wbnb": {
+      "chainId": 5611,
+      "decimals": 18,
+      "symbol": "WBNB",
+      "name": "Wrapped BNB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4200000000000000000000000000000000000006",
+      "projectLink": "https://www.binance.org"
+    },
+    "weth": {
+      "chainId": 5611,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x584f7b986d9942B0859a1E6921efA5342A673d04",
+      "projectLink": "https://weth.io"
+    },
+    "usdc": {
+      "chainId": 5611,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x845E27B8A4ad1Fe3dc0b41b900dC8C1Bb45141C3"
+    },
+    "usdt": {
+      "chainId": 5611,
+      "decimals": 6,
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xCF712f20c85421d00EAa1B6F6545AaEEb4492B75"
+    },
+    "mockA": {
+      "chainId": 5611,
+      "decimals": 18,
+      "symbol": "A",
+      "name": "MOCK Token A",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x394d64eD40a6aF892D8562eE816D5e71D8999E52"
+    },
+    "mockB": {
+      "chainId": 5611,
+      "decimals": 18,
+      "symbol": "B",
+      "name": "MOCK Token B",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x232e111381abc519777BD9f09b2A38B60e244D06"
+    },
+    "mockC": {
+      "chainId": 5611,
+      "decimals": 18,
+      "symbol": "C",
+      "name": "MOCK Token C",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2B01BD26B57f2A4E3d715ccCD9e954A52b4C855E"
+    }
+  },
+  "8453": {
+    "weth": {
+      "chainId": 8453,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4200000000000000000000000000000000000006",
+      "projectLink": "https://weth.io"
+    },
+    "usdc": {
+      "chainId": 8453,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+    },
+    "cake": {
+      "chainId": 8453,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3055913c90Fcc1A6CE9a358911721eEb942013A1",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "cbETH": {
+      "chainId": 8453,
+      "decimals": 18,
+      "symbol": "cbETH",
+      "name": "Coinbase Wrapped Staked ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22"
+    },
+    "usdbc": {
+      "chainId": 8453,
+      "decimals": 6,
+      "symbol": "USDbC",
+      "name": "USD Base Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "projectLink": "https://help.coinbase.com/en/coinbase/getting-started/crypto-education/usd-base-coin"
+    },
+    "dai": {
+      "chainId": 8453,
+      "decimals": 18,
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "projectLink": "https://www.makerdao.com/"
+    },
+    "tbtc": {
+      "chainId": 8453,
+      "decimals": 18,
+      "symbol": "tBTC",
+      "name": "Base tBTC v2",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+      "projectLink": "https://threshold.network/"
+    },
+    "axlusdc": {
+      "chainId": 8453,
+      "decimals": 6,
+      "symbol": "axlUSDC",
+      "name": "Axelar Wrapped USDC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "projectLink": "https://axelarscan.io/assets/"
+    },
+    "wstETH": {
+      "chainId": 8453,
+      "decimals": 18,
+      "symbol": "wstETH",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+      "projectLink": "https://lido.fi/"
+    }
+  },
+  "42161": {
+    "weth": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "projectLink": "https://weth.io"
+    },
+    "usdt": {
+      "chainId": 42161,
+      "decimals": 6,
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+    },
+    "usdc": {
+      "chainId": 42161,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+    },
+    "cake": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "arb": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "projectLink": "https://arbitrum.io/"
+    },
+    "gmx": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "GMX",
+      "name": "GMX",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "projectLink": "https://gmx.io/#/"
+    },
+    "wbtc": {
+      "chainId": 42161,
+      "decimals": 8,
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+      "projectLink": "https://bitcoin.org/"
+    },
+    "alp": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "ALP",
+      "name": "ApolloX LP",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xBc76B3FD0D18C7496C0B04aeA0Fe7C3Ed0e4d9C9",
+      "projectLink": "https://www.apollox.finance/en"
+    },
+    "lvl": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "LVL",
+      "name": "Level Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
+      "projectLink": "https://level.finance/"
+    },
+    "mgp": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "MGP",
+      "name": "Magpie Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa61F74247455A40b01b0559ff6274441FAfa22A3",
+      "projectLink": "https://www.magpiexyz.io/"
+    },
+    "dai": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "projectLink": "https://www.makerdao.com/"
+    },
+    "axlUSDC": {
+      "chainId": 42161,
+      "decimals": 6,
+      "symbol": "axlUSDC",
+      "name": "Axelar Wrapped USDC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "projectLink": "https://axelarscan.io/assets/"
+    },
+    "stg": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "STG",
+      "name": "StargateToken",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+      "projectLink": "https://stargate.finance/"
+    },
+    "pendle": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "PENDLE",
+      "name": "Pendle",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+      "projectLink": "https://www.pendle.finance/"
+    },
+    "mpendle": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "mPENDLE",
+      "name": "mPendle",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xB688BA096b7Bb75d7841e47163Cd12D18B36A5bF",
+      "projectLink": "https://www.pendle.magpiexyz.io/stake"
+    },
+    "rdnt": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "RDNT",
+      "name": "Radiant",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+      "projectLink": "https://radiant.capital/"
+    },
+    "magic": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "MAGIC",
+      "name": "Magic Internet Money",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+      "projectLink": "https://treasure.lol/"
+    },
+    "wstETH": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "wstETH",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+      "projectLink": "https://lido.fi/"
+    },
+    "rETH": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "rETH",
+      "name": "Rocket Pool ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
+      "projectLink": "https://rocketpool.net/"
+    },
+    "link": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "LINK",
+      "name": "ChainLink Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+      "projectLink": "https://chain.link/"
+    },
+    "stEUR": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "stEUR",
+      "name": "Staked agEUR",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+      "projectLink": "https://www.angle.money/"
+    },
+    "kuji": {
+      "chainId": 42161,
+      "decimals": 6,
+      "symbol": "KUJI",
+      "name": "Kujira native asset",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca",
+      "projectLink": "https://kujira.network/"
+    },
+    "dmt": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "DMT",
+      "name": "DMT",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x8B0E6f19Ee57089F7649A455D89D7bC6314D04e8",
+      "projectLink": "https://sankodreammachine.net/"
+    },
+    "eqb": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "EQB",
+      "name": "Equilibria Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xBfbCFe8873fE28Dfa25f1099282b088D52bbAD9C",
+      "projectLink": "https://equilibria.fi/home"
+    },
+    "grai": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "GRAI",
+      "name": "Gravita Debt Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
+      "projectLink": "https://www.gravitaprotocol.com/"
+    },
+    "swETH": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "swETH",
+      "name": "swETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xbc011A12Da28e8F0f528d9eE5E7039E22F91cf18",
+      "projectLink": "https://www.swellnetwork.io/"
+    },
+    "xai": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "XAI",
+      "name": "Xai",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66",
+      "projectLink": "https://xai.games/"
+    },
+    "usdplus": {
+      "chainId": 42161,
+      "decimals": 6,
+      "symbol": "USD+",
+      "name": "USD+",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+      "projectLink": "https://overnight.fi/"
+    },
+    "usdce": {
+      "chainId": 42161,
+      "decimals": 6,
+      "symbol": "USDC.e",
+      "name": "USD Coin (Arb1)",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "projectLink": "https://www.centre.io/"
+    },
+    "usdtplus": {
+      "chainId": 42161,
+      "decimals": 6,
+      "symbol": "USDT+",
+      "name": "USDT+",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xb1084db8D3C05CEbd5FA9335dF95EE4b8a0edc30",
+      "projectLink": "https://overnight.fi/"
+    },
+    "ethplus": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "ETH+",
+      "name": "ETH+",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xD4939D69B31fbE981ed6904A3aF43Ee1dc777Aab",
+      "projectLink": "https://www.swellnetwork.io/"
+    },
+    "ovn": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "OVN",
+      "name": "OVN",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
+      "projectLink": "https://overnight.fi/"
+    },
+    "wbnb": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "WBNB",
+      "name": "Wrapped BNB",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xa9004A5421372E1D83fB1f85b0fc986c912f91f3",
+      "projectLink": "https://www.bnbchain.org/en"
+    },
+    "usdv": {
+      "chainId": 42161,
+      "decimals": 6,
+      "symbol": "USDV",
+      "name": "USDV",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+      "projectLink": "https://usdv.money/"
+    },
+    "dlp": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "DLP",
+      "name": "RDNT-WETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x32dF62dc3aEd2cD6224193052Ce665DC18165841",
+      "projectLink": "https://pancakeswap.finance"
+    },
+    "mdlp": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "mDLP",
+      "name": "Magpie locked DLP",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xfe14F790DA92971131544d915c4ADa6F1abce3Bd",
+      "projectLink": "https://www.radiant.magpiexyz.io/stake"
+    }
+  },
+  "59140": {
+    "weth": {
+      "chainId": 59140,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2C1b868d6596a18e32E61B901E4060C872647b6C",
+      "projectLink": "https://weth.io"
+    },
+    "usdc": {
+      "chainId": 59140,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xf56dc6695cF1f5c364eDEbC7Dc7077ac9B586068"
+    },
+    "cake": {
+      "chainId": 59140,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2B3C5df29F73dbF028BA82C33e0A5A6e5800F75e",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "mockA": {
+      "chainId": 84531,
+      "decimals": 18,
+      "symbol": "A",
+      "name": "Mock A",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6cc56b20bf8C4FfD58050D15AbA2978A745CC691"
+    }
+  },
+  "59144": {
+    "weth": {
+      "chainId": 59144,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+      "projectLink": "https://weth.io"
+    },
+    "usdc": {
+      "chainId": 59144,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff"
+    },
+    "wbtc": {
+      "chainId": 59144,
+      "decimals": 8,
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+      "projectLink": "https://bitcoin.org/"
+    },
+    "usdt": {
+      "chainId": 59144,
+      "decimals": 6,
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93"
+    },
+    "dai": {
+      "chainId": 59144,
+      "decimals": 18,
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+      "projectLink": "https://www.makerdao.com/"
+    },
+    "cake": {
+      "chainId": 59144,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0D1E753a25eBda689453309112904807625bEFBe",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "axlusdc": {
+      "chainId": 59144,
+      "decimals": 6,
+      "symbol": "axlUSDC",
+      "name": "Axelar Wrapped USDC",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "projectLink": "https://axelarscan.io/assets/"
+    },
+    "wstETH": {
+      "chainId": 59144,
+      "decimals": 18,
+      "symbol": "wstETH",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+      "projectLink": "https://lido.fi/"
+    },
+    "ezETH": {
+      "chainId": 59144,
+      "decimals": 18,
+      "symbol": "ezETH",
+      "name": "Renzo Restaked ETH",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "projectLink": "https://www.renzoprotocol.com/"
+    },
+    "foxy": {
+      "chainId": 59144,
+      "decimals": 18,
+      "symbol": "FOXY",
+      "name": "Foxy",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+      "projectLink": "https://www.welikethefox.io/ "
+    }
+  },
+  "84531": {
+    "weth": {
+      "chainId": 84531,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4200000000000000000000000000000000000006",
+      "projectLink": "https://weth.io"
+    },
+    "usdc": {
+      "chainId": 84531,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x853154e2A5604E5C74a2546E2871Ad44932eB92C"
+    },
+    "cake": {
+      "chainId": 84531,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x052a99849Ef2e13a5CB28275862991671D4b6fF5",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "mockA": {
+      "chainId": 84531,
+      "decimals": 18,
+      "symbol": "A",
+      "name": "Mock A",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x15571d4a7D08e16108b97cf7c80Ffd5C3fcb9657"
+    }
+  },
+  "84532": {
+    "weth": {
+      "chainId": 84532,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4200000000000000000000000000000000000006",
+      "projectLink": "https://weth.io"
+    },
+    "usdc": {
+      "chainId": 84532,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x036CbD53842c5426634e7929541eC2318f3dCF7e"
+    }
+  },
+  "421613": {
+    "weth": {
+      "chainId": 421613,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xEe01c0CD76354C383B8c7B4e65EA88D00B06f36f",
+      "projectLink": "https://weth.io"
+    },
+    "usdc": {
+      "chainId": 421613,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x179522635726710Dd7D2035a81d856de4Aa7836c"
+    },
+    "cake": {
+      "chainId": 421613,
+      "decimals": 18,
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x62FF25CFD64E55673168c3656f4902bD7Aa5F0f4",
+      "projectLink": "https://pancakeswap.finance/"
+    },
+    "mockA": {
+      "chainId": 421613,
+      "decimals": 18,
+      "symbol": "A",
+      "name": "MOCK Token A",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x394d64eD40a6aF892D8562eE816D5e71D8999E52"
+    }
+  },
+  "421614": {
+    "weth": {
+      "chainId": 421614,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x1bdc540dEB9Ed1fA29964DeEcCc524A8f5e2198e",
+      "projectLink": "https://weth.io"
+    },
+    "usdc": {
+      "chainId": 421614,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x75faf114eafb1BDbe2F0316DF893fd58CE46AA4d"
+    }
+  },
+  "534351": {
+    "weth": {
+      "chainId": 534351,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x5300000000000000000000000000000000000004",
+      "projectLink": "https://weth.io"
+    },
+    "usdc": {
+      "chainId": 534351,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x02a3e7E0480B668bD46b42852C58363F93e3bA5C"
+    }
+  },
+  "11155111": {
+    "weth": {
+      "chainId": 11155111,
+      "decimals": 18,
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+      "projectLink": "https://weth.io"
+    },
+    "usdc": {
+      "chainId": 11155111,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x6f14C02Fc1F78322cFd7d707aB90f18baD3B54f5"
+    }
+  }
+}

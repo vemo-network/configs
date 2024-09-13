@@ -20,7 +20,8 @@
     "NFT_CONTRACTS": [
       {
         "contractAddress": "0x7aBD3fb92c722659CAf9A9692e94BcAA651F9759",
-        "name": "Vemo Smart Wallet"
+                "name": "NFT"
+
       },
       {
         "contractAddress": "0x90ba36e80bEAB9F32b81AE3E37A5Cc89BEfCd118",
@@ -51,7 +52,8 @@
     "updated_at": "2024-08-07T03:04:02.385Z",
     "is_deleted": 0,
     "id": 21,
-    "name": "Vemo Smart Wallet",
+            "name": "NFT"
+,
     "symbol": "VSW",
     "chainId": 1,
     "description": null,

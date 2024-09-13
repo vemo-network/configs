@@ -68,7 +68,8 @@
     "updated_at": "2024-08-14T08:32:07.964Z",
     "is_deleted": 0,
     "id": 25,
-    "name": "Vemo Smart Wallet",
+            "name": "NFT"
+,
     "symbol": "VSW",
     "chainId": 421614,
     "description": null,

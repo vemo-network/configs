@@ -25,7 +25,7 @@
       {
         "contractAddress": "0x90ba36e80bEAB9F32b81AE3E37A5Cc89BEfCd118",
         "name": "vePENDLE Voter",
-        "isDelegate": true,
+        "isDelegated": true,
         "issuer": "0x7aBD3fb92c722659CAf9A9692e94BcAA651F9759"
       }
     ],

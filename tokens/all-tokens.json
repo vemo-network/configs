@@ -1,5 +1,15 @@
 {
   "1": {
+    "ve-pendle": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "VE_PENDLE",
+      "name": "vePendle",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x4f30A9D41B80ecC5B94306AB4364951AE3170210",
+      "projectLink": "https://www.pendle.finance/"
+    },
     "weth": {
       "chainId": 1,
       "decimals": 18,

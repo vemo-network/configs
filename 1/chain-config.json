@@ -38,7 +38,9 @@
     ],
     "FARMER_CONTRACTS": [
       {
-        "address": ""
+        "address": "",
+        "name":"Vemo Voter"
+
       }
     ]
   },

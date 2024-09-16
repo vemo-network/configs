@@ -1,62 +1,64 @@
 {
-  "created_at": "2024-08-06T11:17:02.249Z",
-  "updated_at": "2024-08-06T11:17:02.249Z",
+  "created_at": "2024-08-06T11:17:02.258Z",
+  "updated_at": "2024-08-06T11:17:02.258Z",
   "is_deleted": 0,
-  "id": 2,
-  "name": "BNB",
-  "chainId": 56,
+  "id": 5,
+  "name": "ETH",
+  "chainId": 1,
   "config": {
     "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
-    "CHAIN_NAME": "BNB Chain",
-    "PROVIDER_URL": "https://bsc-dataseed3.bnbchain.org",
+    "CHAIN_NAME": "ETH Chain",
+    "PROVIDER_URL": "https://eth.llamarpc.com",
     "WALLET_FACTORY": "0x5A72A673f0621dC3b39B59084a72b95706E75EFd",
     "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
     "NATIVE_CURRENCY": {
-      "name": "BNB Chain",
-      "symbol": "BNB",
+      "name": "ETH Chain",
+      "symbol": "ETH",
       "decimals": "18"
     },
-    "VOUCHER_FACTORY": "0x9869524fd160fe3adDA6218883B6526c0977D3a5",
-    "SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-bnb",
-    "VESTING_POOL_FACTORY": "0x29f118a2Eb3c7754847a104ABeDF7776Ee5D4C80",
-    "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-bnb",
+    "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-wallet-eth-bnb-arb",
     "NFT_CONTRACTS": [
       {
-        "contractAddress": "0x604873F647c6888c109e9fB28ea32De82D97806a",
+        "contractAddress": "0x7aBD3fb92c722659CAf9A9692e94BcAA651F9759",
                 "name": "NFT"
 
       },
       {
-        "contractAddress": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB",
-                "name": "NFT"
-
-      },
+        "contractAddress": "0x90ba36e80bEAB9F32b81AE3E37A5Cc89BEfCd118",
+        "name": "vePENDLE Voter",
+        "isDelegated": true,
+        "issuer": "0x7aBD3fb92c722659CAf9A9692e94BcAA651F9759"
+      }
+    ],
+    "DELEGATION_CONTRACTS": [
       {
-        "contractAddress": "0x7F4282181243069B55379312196be53566a5FE03",
-        "name": "Farmer collection",
-        "isDelegate": true
+        "contractAddress": "0x90ba36e80bEAB9F32b81AE3E37A5Cc89BEfCd118",
+        "termAddress": "0x3dA87E0397acca76a7F21C6ceC1E61B576343a31",
+        "name": "vePENDLE Voter"
       }
     ],
     "FARMER_CONTRACTS": [
       {
-        "address": "0xEc7360041E3d082e5D475B2bE46Ec0e5C205C990"
+        "address": "",
+        "name":"Vemo Voter"
+
       }
     ]
   },
   "status": 1,
   "tag": 0,
   "collection": {
-    "created_at": "2024-08-07T02:58:01.068Z",
-    "updated_at": "2024-08-08T10:15:43.960Z",
+    "created_at": "2024-08-07T03:04:02.385Z",
+    "updated_at": "2024-08-07T03:04:02.385Z",
     "is_deleted": 0,
-    "id": 6,
+    "id": 21,
             "name": "NFT"
 ,
     "symbol": "VSW",
-    "chainId": 56,
+    "chainId": 1,
     "description": null,
     "thumbnail": null,
-    "contractAddress": "0x604873f647c6888c109e9fb28ea32de82d97806a",
+    "contractAddress": "0x7aBD3fb92c722659CAf9A9692e94BcAA651F9759",
     "creatorAddress": null,
     "ownerAddress": null,
     "dappURI": "vemowallet",
@@ -66,13 +68,13 @@
     "wallet_description": "This NFT signifies the ownership of an account containing crypto assets or off-chain points, known as a Smart Wallet following the ERC-6551 standard. Only the NFT holder has complete control over the assets in the Wallet. Additionally, they can transfer the Wallet to others by transferring or selling the NFT on the secondary market.\n \n The Smart Wallet address linked to this NFT: TBA_ADDRESS \n \n For more details, please visit https://vemo.network/ \n \n ⚠️ DISCLAIMER: It is highly recommended to verify the assets in the Smart Wallet on the Vemo Network website before making any decisions."
   },
   "logConfig": {
-    "fromBlock": 40000000,
-    "url": "https://api.bscscan.com/api",
-    "rpc": "https://rpc.ankr.com/bsc",
+    "fromBlock": 20000000,
+    "url": "https://api.etherscan.io/api",
+    "rpc": "https://cloudflare-eth.com",
     "apiKeys": [
-      "AGDY1URS8EMBGZDTY8Z5XCAHN7SIDNT24M",
-      "C66RIA1Q7ANCNN64EDVN17CBCQ6XNI3XX2",
-      "WIJU37BQD53QZFT9J1MID6TUEU543N7QEK"
+      "2F5PIEZGS2MZXUGXTX5RXB5525CAUWQ36H",
+      "8X7299SJZZDWYKIPAB35TFAVKFK2NBPVKQ",
+      "9GERFFH5E95GD1V4ABNANSMBFTPRVNBG98"
     ],
     "rateLimitCount": 5,
     "rateLimitDuration": 1000

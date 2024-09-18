@@ -20,23 +20,6 @@
     "SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/githubdnft/vemo-bnbtest",
     "VESTING_POOL_FACTORY": "0x38BE5E3f75C7D5F67558FC47c75c010783a28Cc9",
     "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-bnbtest",
-    "NFT_CONTRACTS": [
-      {
-        "contractAddress": "0x604873F647c6888c109e9fB28ea32De82D97806a",
-                "name": "NFT"
-
-      },
-      {
-        "contractAddress": "0x8199F4C7A378B7CcCD6AF8c3bBcF0C68A353dAeB",
-                "name": "NFT"
-
-      },
-      {
-        "contractAddress": "0x7F4282181243069B55379312196be53566a5FE03",
-        "name": "Farmer collection",
-        "isDelegate": true
-      }
-    ],
     "FARMER_CONTRACTS": [
       {
         "address": "0xEc7360041E3d082e5D475B2bE46Ec0e5C205C990"

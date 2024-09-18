@@ -17,24 +17,6 @@
       "decimals": "18"
     },
     "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-wallet-arb",
-    "NFT_CONTRACTS": [
-      {
-        "contractAddress": "0xa815Fd40821b722765Daa326177E3832703C390f",
-        "name": "NFT"
-      },
-      {
-        "contractAddress": "0xf9ad84fE8e4Cf9A521369650E29000F621dB7C90",
-        "name": "vePENDLE Voter",
-        "isDelegated": true,
-        "issuer": "0xa815Fd40821b722765Daa326177E3832703C390f"
-      },
-      {
-        "contractAddress": "0xe199E125a3cCA16A688D964C555b457Bdf7C6125",
-        "name": "vePENDLE Voter",
-        "isDelegated": true,
-        "issuer": "0xa815Fd40821b722765Daa326177E3832703C390f"
-      }
-    ],
     "DELEGATION_CONTRACTS": [
       {
         "contractAddress": "0xe199E125a3cCA16A688D964C555b457Bdf7C6125",
@@ -50,7 +32,7 @@
     "FARMER_CONTRACTS": [
       {
         "address": "0xEc7360041E3d082e5D475B2bE46Ec0e5C205C990",
-        "name":"Vemo Voter"
+        "name": "Vemo Voter"
       }
     ]
   },
@@ -61,8 +43,7 @@
     "updated_at": null,
     "is_deleted": 0,
     "id": 22,
-            "name": "NFT"
-,
+    "name": "NFT",
     "symbol": "VSW",
     "chainId": 42161,
     "description": null,

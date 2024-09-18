@@ -17,19 +17,6 @@
       "decimals": "18"
     },
     "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-wallet-eth-bnb-arb",
-    "NFT_CONTRACTS": [
-      {
-        "contractAddress": "0x7aBD3fb92c722659CAf9A9692e94BcAA651F9759",
-                "name": "NFT"
-
-      },
-      {
-        "contractAddress": "0x90ba36e80bEAB9F32b81AE3E37A5Cc89BEfCd118",
-        "name": "vePENDLE Voter",
-        "isDelegated": true,
-        "issuer": "0x7aBD3fb92c722659CAf9A9692e94BcAA651F9759"
-      }
-    ],
     "DELEGATION_CONTRACTS": [
       {
         "contractAddress": "0x90ba36e80bEAB9F32b81AE3E37A5Cc89BEfCd118",

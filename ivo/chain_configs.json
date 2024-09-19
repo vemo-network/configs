@@ -64,7 +64,7 @@
     "tag": 0,
     "logConfig": {
       "fromBlock": 40000000,
-      "url": "https://api.snowtrace.io",
+      "url": "https://api.routescan.io/v2/network/mainnet/evm/43114/etherscan/api",
       "rpc": "https://avalanche.blockpi.network/v1/rpc/public"
     }
   },
@@ -152,7 +152,7 @@
     "tag": 0,
     "logConfig": {
       "fromBlock": 40000000,
-      "url": "https://api-testnet.snowtrace.io",
+      "url": "https://api.routescan.io/v2/network/mainnet/evm/43114/etherscan/api",
       "rpc": "https://api.avax-test.network/ext/bc/C/rpc"
     }
   },

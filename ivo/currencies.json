@@ -1,0 +1,72 @@
+[
+  {
+      "created_at": "2024-04-16T05:56:48.010Z",
+      "updated_at": "2024-09-19T03:00:00.271Z",
+      "is_deleted": 0,
+      "id": 29,
+      "name": "USDT",
+      "chainId": 56,
+      "contractAddress": "0x55d398326f99059ff775485246999027b3197955",
+      "tokenId": "tether",
+      "status": 1,
+      "icon": null,
+      "decimals": 18,
+      "usdRate": 1
+  },
+  {
+      "created_at": "2024-04-16T05:56:48.007Z",
+      "updated_at": "2024-09-19T03:00:00.271Z",
+      "is_deleted": 0,
+      "id": 28,
+      "name": "BNB",
+      "chainId": 56,
+      "contractAddress": "0x0000000000000000000000000000000000000000",
+      "tokenId": "binancecoin",
+      "status": 1,
+      "icon": null,
+      "decimals": 18,
+      "usdRate": 558.74
+  },
+  {
+      "created_at": "2024-04-16T05:56:48.016Z",
+      "updated_at": "2024-09-19T03:00:00.271Z",
+      "is_deleted": 0,
+      "id": 35,
+      "name": "USDC",
+      "chainId": 43114,
+      "contractAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "tokenId": "usd-coin",
+      "status": 1,
+      "icon": null,
+      "decimals": 6,
+      "usdRate": 0.999994
+  },
+  {
+      "created_at": "2024-04-16T05:56:48.015Z",
+      "updated_at": "2024-09-19T03:00:00.271Z",
+      "is_deleted": 0,
+      "id": 33,
+      "name": "AVAX",
+      "chainId": 43114,
+      "contractAddress": "0x0000000000000000000000000000000000000000",
+      "tokenId": "avalanche-2",
+      "status": 1,
+      "icon": null,
+      "decimals": 18,
+      "usdRate": 25.84
+  },
+  {
+      "created_at": "2024-04-16T05:56:48.015Z",
+      "updated_at": "2024-09-19T03:00:00.271Z",
+      "is_deleted": 0,
+      "id": 34,
+      "name": "USDT",
+      "chainId": 43114,
+      "contractAddress": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+      "tokenId": "tether",
+      "status": 1,
+      "icon": null,
+      "decimals": 6,
+      "usdRate": 1
+  }
+]

@@ -23,7 +23,19 @@
       "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-bnb"
     },
     "status": 1,
-    "tag": 0
+    "tag": 0,
+    "logConfig": {
+      "fromBlock": 40000000,
+      "url": "https://api.bscscan.com/api",
+      "rpc": "https://rpc.ankr.com/bsc",
+      "apiKeys": [
+        "AGDY1URS8EMBGZDTY8Z5XCAHN7SIDNT24M",
+        "C66RIA1Q7ANCNN64EDVN17CBCQ6XNI3XX2",
+        "WIJU37BQD53QZFT9J1MID6TUEU543N7QEK"
+      ],
+      "rateLimitCount": 5,
+      "rateLimitDuration": 1000
+    }
   },
   {
     "created_at": "2024-08-06T11:17:02.264Z",
@@ -49,7 +61,12 @@
       "AVEX_VOUCHER_COLLECTION": "0xa7de7dcf48bc83d98e8df1b6f4e25d99eb5077bc"
     },
     "status": 1,
-    "tag": 0
+    "tag": 0,
+    "logConfig": {
+      "fromBlock": 40000000,
+      "url": "https://api.snowtrace.io",
+      "rpc": "https://avalanche.blockpi.network/v1/rpc/public"
+    }
   },
   {
     "created_at": "2024-08-14T02:27:16.839Z",
@@ -75,7 +92,12 @@
       "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-bnbtest"
     },
     "status": 1,
-    "tag": 0
+    "tag": 0,
+    "logConfig": {
+      "fromBlock": 40000000,
+      "url": "https://api-testnet.bscscan.com/api",
+      "rpc": "https://data-seed-prebsc-1-s1.bnbchain.org:8545"
+    }
   },
   {
     "created_at": "2024-08-06T11:17:02.258Z",
@@ -127,7 +149,12 @@
       "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/githubdnft/wallet-indexer-avaxtest"
     },
     "status": 1,
-    "tag": 0
+    "tag": 0,
+    "logConfig": {
+      "fromBlock": 40000000,
+      "url": "https://api-testnet.snowtrace.io",
+      "rpc": "https://api.avax-test.network/ext/bc/C/rpc"
+    }
   },
   {
     "created_at": "2024-08-06T11:17:02.262Z",
@@ -173,6 +200,11 @@
       "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-arbitrum-testnet"
     },
     "status": 1,
-    "tag": 0
+    "tag": 0,
+    "logConfig": {
+      "fromBlock": 222732688,
+      "url": "https://api.arbiscan.io/api",
+      "rpc": "https://arb1.arbitrum.io/rpc"
+    }
   }
 ]

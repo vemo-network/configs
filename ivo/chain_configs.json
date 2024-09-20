@@ -151,7 +151,7 @@
     "status": 1,
     "tag": 0,
     "logConfig": {
-      "fromBlock": 34864774,
+      "fromBlock": 31875663,
       "url": "https://api.routescan.io/v2/network/testnet/evm/43113/etherscan/api",
       "rpc": "https://api.avax-test.network/ext/bc/C/rpc"
     }

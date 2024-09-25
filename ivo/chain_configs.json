@@ -65,7 +65,10 @@
     "logConfig": {
       "fromBlock": 44541346,
       "url": "https://api.routescan.io/v2/network/mainnet/evm/43114/etherscan/api",
-      "rpc": "https://avalanche.blockpi.network/v1/rpc/public"
+      "rpc": "https://avalanche.blockpi.network/v1/rpc/public",
+      "rateLimitCount": 2,
+      "rateLimitDuration": 1000,
+      "maxResults": 100
     }
   },
   {
@@ -153,7 +156,10 @@
     "logConfig": {
       "fromBlock": 31875663,
       "url": "https://api.routescan.io/v2/network/testnet/evm/43113/etherscan/api",
-      "rpc": "https://api.avax-test.network/ext/bc/C/rpc"
+      "rpc": "https://api.avax-test.network/ext/bc/C/rpc",
+      "rateLimitCount": 2,
+      "rateLimitDuration": 1000,
+      "maxResults": 100
     }
   },
   {

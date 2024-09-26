@@ -1,0 +1,178 @@
+[
+  {
+  "created_at": "2024-09-05T10:39:00.594Z",
+  "updated_at": "2024-09-05T10:39:00.595Z",
+  "is_deleted": 0,
+  "id": 1,
+  "name": "BNB Testnet",
+  "chainId": 97,
+  "config": {
+  "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
+  "CHAIN_NAME": "BNB chain testnet",
+  "PROVIDER_URL": "https://data-seed-prebsc-2-s2.binance.org:8545",
+  "WALLET_FACTORY": "0xe2eBB6c62469f5afc0134DAbc9dD0e77F16eFba3",
+  "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
+  "NATIVE_CURRENCY": {
+  "name": "Binance Smart Chain Testnet",
+  "symbol": "tBNB",
+  "decimals": "18"
+  },
+  "VOUCHER_FACTORY": "0xD0901C6fE9FA1A8D56D2250Db272D65391117dfc",
+  "SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/githubdnft/vemo-bnbtest",
+  "VESTING_POOL_FACTORY": "0x38BE5E3f75C7D5F67558FC47c75c010783a28Cc9",
+  "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-bnbtest"
+  },
+  "status": 1,
+  "tag": 0
+  },
+  {
+  "created_at": "2024-08-07T10:20:03.771Z",
+  "updated_at": "2024-08-07T10:20:03.771Z",
+  "is_deleted": 0,
+  "id": 3,
+  "name": "AVAX Testnet",
+  "chainId": 43113,
+  "config": {
+  "AVEX_TOKEN": "0xdC05C4dDd556020B1CB95C219457bFAccf52236b",
+  "CHAIN_ICON": "https://static3.nft2scan.com/config/avax-white.svg",
+  "CHAIN_NAME": "AVAX testnet",
+  "PROVIDER_URL": "https://api.avax-test.network/ext/bc/C/rpc",
+  "NFT_DESCRIPTOR": "0x6ca9bb43548FfE3b2ABE0ca6A9Ba6C5C60bba463",
+  "WALLET_FACTORY": "0xAb3a6F5c42FF0efD402a8cd7EcEa18F8759AEE73",
+  "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/avax-black.svg",
+  "NATIVE_CURRENCY": {
+  "name": "AVAX Testnet",
+  "symbol": "AVAX",
+  "decimals": "18"
+  },
+  "VOUCHER_FACTORY": "0x65B903D7903d277bE600B8524a759aBEa3CC7e1A",
+  "SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-avaxtest",
+  "VESTING_POOL_FACTORY": "0x5ef5D34bcbCefdFa6442aD7672a4147A98C08698",
+  "AVEX_VOUCHER_COLLECTION": "0xa7de7dcf48bc83d98e8df1b6f4e25d99eb5077bc",
+  "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/githubdnft/wallet-indexer-avaxtest"
+  },
+  "status": 1,
+  "tag": 0
+  },
+  {
+  "created_at": "2024-08-07T10:20:03.773Z",
+  "updated_at": "2024-08-07T10:20:03.773Z",
+  "is_deleted": 0,
+  "id": 4,
+  "name": "AVAX",
+  "chainId": 43114,
+  "config": {
+  "AVEX_TOKEN": "0x0a1ca84cc2ff8bb47d4201539d2969d8c57418de",
+  "CHAIN_ICON": "https://static3.nft2scan.com/config/avax-white.svg",
+  "CHAIN_NAME": "AVAX",
+  "PROVIDER_URL": "https://api.avax.network/ext/bc/C/rpc",
+  "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/avax-black.svg",
+  "NATIVE_CURRENCY": {
+  "name": "AVAX Mainnet",
+  "symbol": "AVAX",
+  "decimals": "18"
+  },
+  "VOUCHER_FACTORY": "0xbB740E17f3c177172CaAcCef2F472DB41b9b1d19",
+  "SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-avax",
+  "VESTING_POOL_FACTORY": "0x296d2C371D4Be8A5368f5E541Bc62926051E92CC",
+  "AVEX_VOUCHER_COLLECTION": "0xa7de7dcf48bc83d98e8df1b6f4e25d99eb5077bc"
+  },
+  "status": 1,
+  "tag": 0
+  },
+  {
+  "created_at": "2024-08-07T10:20:03.760Z",
+  "updated_at": "2024-08-07T10:20:03.760Z",
+  "is_deleted": 0,
+  "id": 2,
+  "name": "BNB",
+  "chainId": 56,
+  "config": {
+  "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
+  "CHAIN_NAME": "BNB Chain",
+  "PROVIDER_URL": "https://bsc-dataseed3.bnbchain.org",
+  "WALLET_FACTORY": "0x5A72A673f0621dC3b39B59084a72b95706E75EFd",
+  "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
+  "NATIVE_CURRENCY": {
+  "name": "BNB Chain",
+  "symbol": "BNB",
+  "decimals": "18"
+  },
+  "VOUCHER_FACTORY": "0x9869524fd160fe3adDA6218883B6526c0977D3a5",
+  "SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-bnb",
+  "VESTING_POOL_FACTORY": "0x29f118a2Eb3c7754847a104ABeDF7776Ee5D4C80",
+  "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-bnb"
+  },
+  "status": 1,
+  "tag": 0
+  },
+  {
+  "created_at": "2024-08-07T10:20:03.766Z",
+  "updated_at": "2024-08-07T10:20:03.766Z",
+  "is_deleted": 0,
+  "id": 5,
+  "name": "ETH",
+  "chainId": 1,
+  "config": {
+  "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
+  "CHAIN_NAME": "ETH Chain",
+  "PROVIDER_URL": "https://eth.llamarpc.com",
+  "WALLET_FACTORY": "0x5A72A673f0621dC3b39B59084a72b95706E75EFd",
+  "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
+  "NATIVE_CURRENCY": {
+  "name": "ETH Chain",
+  "symbol": "ETH",
+  "decimals": "18"
+  },
+  "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-wallet-eth-bnb-arb"
+  },
+  "status": 1,
+  "tag": 0
+  },
+  {
+  "created_at": "2024-08-07T10:20:03.770Z",
+  "updated_at": "2024-08-07T10:20:03.770Z",
+  "is_deleted": 0,
+  "id": 6,
+  "name": "ARB",
+  "chainId": 42161,
+  "config": {
+  "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
+  "CHAIN_NAME": "ARB Chain",
+  "PROVIDER_URL": "https://arbitrum.llamarpc.com",
+  "WALLET_FACTORY": "0x5A72A673f0621dC3b39B59084a72b95706E75EFd",
+  "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
+  "NATIVE_CURRENCY": {
+  "name": "ARB Chain",
+  "symbol": "ARB",
+  "decimals": "18"
+  },
+  "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-wallet-arb"
+  },
+  "status": 1,
+  "tag": 0
+  },
+  {
+  "created_at": "2024-09-05T10:39:00.617Z",
+  "updated_at": "2024-09-05T10:39:00.617Z",
+  "is_deleted": 0,
+  "id": 7,
+  "name": "ARB-testnet",
+  "chainId": 421614,
+  "config": {
+  "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
+  "CHAIN_NAME": "ARB Chain",
+  "PROVIDER_URL": "https://arb-sepolia.g.alchemy.com/v2/-KJzJWstgeScdLL4vDaDfJTjKZUDKOgj",
+  "WALLET_FACTORY": "0xe2eBB6c62469f5afc0134DAbc9dD0e77F16eFba3",
+  "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
+  "NATIVE_CURRENCY": {
+  "name": "ARB Chain",
+  "symbol": "ARB",
+  "decimals": "18"
+  },
+  "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/wallet-indexer-arbitrum-testnet"
+  },
+  "status": 1,
+  "tag": 0
+  }
+  ]

@@ -1,0 +1,206 @@
+[
+  {
+    "created_at": "2024-08-06T11:17:02.249Z",
+    "updated_at": "2024-08-06T11:17:02.249Z",
+    "is_deleted": 0,
+    "id": 2,
+    "name": "BNB",
+    "chainId": 56,
+    "config": {
+      "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
+      "CHAIN_NAME": "BNB Chain",
+      "PROVIDER_URL": "https://bsc-dataseed3.bnbchain.org",
+      "WALLET_FACTORY": "0x5A72A673f0621dC3b39B59084a72b95706E75EFd",
+      "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
+      "NATIVE_CURRENCY": {
+        "name": "BNB Chain",
+        "symbol": "BNB",
+        "decimals": "18"
+      },
+      "VOUCHER_FACTORY": "0x9869524fd160fe3adDA6218883B6526c0977D3a5",
+      "VESTING_POOL_FACTORY": "0x29f118a2Eb3c7754847a104ABeDF7776Ee5D4C80"
+    },
+    "status": 1,
+    "tag": 0,
+    "logConfig": {
+      "fromBlock": 40000000,
+      "url": "https://api.bscscan.com/api",
+      "rpc": "https://rpc.ankr.com/bsc",
+      "apiKeys": [
+        "AGDY1URS8EMBGZDTY8Z5XCAHN7SIDNT24M",
+        "C66RIA1Q7ANCNN64EDVN17CBCQ6XNI3XX2",
+        "WIJU37BQD53QZFT9J1MID6TUEU543N7QEK"
+      ],
+      "rateLimitCount": 5,
+      "rateLimitDuration": 1000
+    }
+  },
+  {
+    "created_at": "2024-08-06T11:17:02.264Z",
+    "updated_at": "2024-08-06T11:17:02.264Z",
+    "is_deleted": 0,
+    "id": 4,
+    "name": "AVAX",
+    "chainId": 43114,
+    "config": {
+      "AVEX_TOKEN": "0x0a1ca84cc2ff8bb47d4201539d2969d8c57418de",
+      "CHAIN_ICON": "https://static3.nft2scan.com/config/avax-white.svg",
+      "CHAIN_NAME": "AVAX",
+      "PROVIDER_URL": "https://api.avax.network/ext/bc/C/rpc",
+      "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/avax-black.svg",
+      "NATIVE_CURRENCY": {
+        "name": "AVAX Mainnet",
+        "symbol": "AVAX",
+        "decimals": "18"
+      },
+      "VOUCHER_FACTORY": "0xbB740E17f3c177172CaAcCef2F472DB41b9b1d19",
+      "VESTING_POOL_FACTORY": "0x296d2C371D4Be8A5368f5E541Bc62926051E92CC",
+      "AVEX_VOUCHER_COLLECTION": "0xa7de7dcf48bc83d98e8df1b6f4e25d99eb5077bc"
+    },
+    "status": 1,
+    "tag": 0,
+    "logConfig": {
+      "fromBlock": 44541346,
+      "url": "https://api.routescan.io/v2/network/mainnet/evm/43114/etherscan/api",
+      "rpc": "https://avalanche.blockpi.network/v1/rpc/public",
+      "rateLimitCount": 2,
+      "rateLimitDuration": 1000,
+      "maxResults": 100
+    }
+  },
+  {
+    "created_at": "2024-08-14T02:27:16.839Z",
+    "updated_at": "2024-08-14T02:27:16.839Z",
+    "is_deleted": 0,
+    "id": 1,
+    "name": "BNB Testnet",
+    "chainId": 97,
+    "config": {
+      "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
+      "CHAIN_NAME": "BNB chain testnet",
+      "PROVIDER_URL": "https://data-seed-prebsc-2-s2.binance.org:8545",
+      "WALLET_FACTORY": "0xe2eBB6c62469f5afc0134DAbc9dD0e77F16eFba3",
+      "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
+      "NATIVE_CURRENCY": {
+        "name": "Binance Smart Chain Testnet",
+        "symbol": "tBNB",
+        "decimals": "18"
+      },
+      "VOUCHER_FACTORY": "0xD0901C6fE9FA1A8D56D2250Db272D65391117dfc",
+      "VESTING_POOL_FACTORY": "0x38BE5E3f75C7D5F67558FC47c75c010783a28Cc9"
+    },
+    "status": 1,
+    "tag": 0,
+    "logConfig": {
+      "fromBlock": 40000000,
+      "url": "https://api-testnet.bscscan.com/api",
+      "rpc": "https://data-seed-prebsc-1-s1.bnbchain.org:8545"
+    }
+  },
+  {
+    "created_at": "2024-08-06T11:17:02.258Z",
+    "updated_at": "2024-08-06T11:17:02.258Z",
+    "is_deleted": 0,
+    "id": 5,
+    "name": "ETH",
+    "chainId": 1,
+    "config": {
+      "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
+      "CHAIN_NAME": "ETH Chain",
+      "PROVIDER_URL": "https://eth.llamarpc.com",
+      "WALLET_FACTORY": "0x5A72A673f0621dC3b39B59084a72b95706E75EFd",
+      "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
+      "NATIVE_CURRENCY": {
+        "name": "ETH Chain",
+        "symbol": "ETH",
+        "decimals": "18"
+      }
+    },
+    "status": 1,
+    "tag": 0
+  },
+  {
+    "created_at": "2024-08-06T11:17:02.262Z",
+    "updated_at": "2024-08-06T11:17:02.263Z",
+    "is_deleted": 0,
+    "id": 3,
+    "name": "AVAX Testnet",
+    "chainId": 43113,
+    "config": {
+      "AVEX_TOKEN": "0xdC05C4dDd556020B1CB95C219457bFAccf52236b",
+      "CHAIN_ICON": "https://static3.nft2scan.com/config/avax-white.svg",
+      "CHAIN_NAME": "AVAX testnet",
+      "PROVIDER_URL": "https://api.avax-test.network/ext/bc/C/rpc",
+      "NFT_DESCRIPTOR": "0x6ca9bb43548FfE3b2ABE0ca6A9Ba6C5C60bba463",
+      "WALLET_FACTORY": "0xAb3a6F5c42FF0efD402a8cd7EcEa18F8759AEE73",
+      "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/avax-black.svg",
+      "NATIVE_CURRENCY": {
+        "name": "AVAX Testnet",
+        "symbol": "AVAX",
+        "decimals": "18"
+      },
+      "VOUCHER_FACTORY": "0x65B903D7903d277bE600B8524a759aBEa3CC7e1A",
+      "VESTING_POOL_FACTORY": "0x5ef5D34bcbCefdFa6442aD7672a4147A98C08698",
+      "AVEX_VOUCHER_COLLECTION": "0xa7de7dcf48bc83d98e8df1b6f4e25d99eb5077bc"
+    },
+    "status": 1,
+    "tag": 0,
+    "logConfig": {
+      "fromBlock": 31875663,
+      "url": "https://api.routescan.io/v2/network/testnet/evm/43113/etherscan/api",
+      "rpc": "https://api.avax-test.network/ext/bc/C/rpc",
+      "rateLimitCount": 2,
+      "rateLimitDuration": 1000,
+      "maxResults": 100
+    }
+  },
+  {
+    "created_at": "2024-08-06T11:17:02.262Z",
+    "updated_at": "2024-08-06T11:17:02.262Z",
+    "is_deleted": 0,
+    "id": 6,
+    "name": "ARB",
+    "chainId": 42161,
+    "config": {
+      "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
+      "CHAIN_NAME": "ARB Chain",
+      "PROVIDER_URL": "https://arbitrum.llamarpc.com",
+      "WALLET_FACTORY": "0x5A72A673f0621dC3b39B59084a72b95706E75EFd",
+      "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
+      "NATIVE_CURRENCY": {
+        "name": "ARB Chain",
+        "symbol": "ARB",
+        "decimals": "18"
+      }
+    },
+    "status": 1,
+    "tag": 0
+  },
+  {
+    "created_at": "2024-08-14T08:31:48.020Z",
+    "updated_at": "2024-08-14T08:31:48.020Z",
+    "is_deleted": 0,
+    "id": 7,
+    "name": "ARB-testnet",
+    "chainId": 421614,
+    "config": {
+      "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
+      "CHAIN_NAME": "ARB Chain",
+      "PROVIDER_URL": "https://arb-sepolia.g.alchemy.com/v2/-KJzJWstgeScdLL4vDaDfJTjKZUDKOgj",
+      "WALLET_FACTORY": "0xe2eBB6c62469f5afc0134DAbc9dD0e77F16eFba3",
+      "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
+      "NATIVE_CURRENCY": {
+        "name": "ARB Chain",
+        "symbol": "ARB",
+        "decimals": "18"
+      }
+    },
+    "status": 1,
+    "tag": 0,
+    "logConfig": {
+      "fromBlock": 222732688,
+      "url": "https://api.arbiscan.io/api",
+      "rpc": "https://arb1.arbitrum.io/rpc"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "account": "0xa66c17e360795f385f246af2570c10a2fcb9c6dc",
+    "nftCollection": "0x7abd3fb92c722659caf9a9692e94bcaa651f9759",
+    "tokenId": "6",
+    "receiver": "0xa5576138f067eb83c6ad4080f3164b757deb2737",
+    "chainId": "1",
+    "contractAddress": "0x5a72a673f0621dc3b39b59084a72b95706e75efd",
+    "txHash": "0x36b3f3859bfaeca04e19bc108cb6cfa63d82744fe860a51267b7b50c0bb94bb5",
+    "blockNumber": "20740769",
+    "timeStamp": "1726219331",
+    "slope": 6.359381359381359e-8,
+    "accumulate": 0.06928348850223849,
+    "amount": "10000000000000000000",
+    "expiry": "1730332800"
+  },
+  {
+    "account": "0x69741859dfb1154ac80a35f47d1501a3ba1f2ffe",
+    "nftCollection": "0x7abd3fb92c722659caf9a9692e94bcaa651f9759",
+    "tokenId": "2",
+    "receiver": "0xe61383556642af1bd7c5756b13f19a63dc8601df",
+    "chainId": "1",
+    "contractAddress": "0x5a72a673f0621dc3b39b59084a72b95706e75efd",
+    "txHash": "0x093e5e7729763c9fb25016bff47c13e0f0cbffb35878d15aec40b4f2b43e5dc1",
+    "blockNumber": "20738853",
+    "timeStamp": "1726196267",
+    "slope": 7.9492266992267e-8,
+    "accumulate": 0,
+    "amount": "5000000000000000000",
+    "expiry": "1727308800"
+  },
+  {
+    "account": "0xedd12173a2064cd1751004e91433b56113a1de05",
+    "nftCollection": "0x7abd3fb92c722659caf9a9692e94bcaa651f9759",
+    "tokenId": "7",
+    "receiver": "0xe61383556642af1bd7c5756b13f19a63dc8601df",
+    "chainId": "1",
+    "contractAddress": "0x5a72a673f0621dc3b39b59084a72b95706e75efd",
+    "txHash": "0x20e455590420fd73297509df16b89d1c2677fce36f859edd48b3efaac11a1933",
+    "blockNumber": "20762640",
+    "timeStamp": "1726483151",
+    "slope": 1.5898453398453397e-8,
+    "accumulate": 0,
+    "amount": "1000000000000000000",
+    "expiry": "1727308800"
+  }
+]

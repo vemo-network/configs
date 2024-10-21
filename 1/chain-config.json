@@ -19,6 +19,11 @@
     "WALLET_SUB_QUERY_ENDPOINT": "https://api.subquery.network/sq/voucherlabs/vemo-wallet-eth-bnb-arb",
     "DELEGATION_CONTRACTS": [
       {
+        "contractAddress": "0xe3993dCdA85bB5A1Cd47640fB14f8F99fD9f5132",
+        "termAddress": "0x3dA87E0397acca76a7F21C6ceC1E61B576343a31",
+        "name": "vePENDLE Voter"
+      },
+      {
         "contractAddress": "0x90ba36e80bEAB9F32b81AE3E37A5Cc89BEfCd118",
         "termAddress": "0x3dA87E0397acca76a7F21C6ceC1E61B576343a31",
         "name": "vePENDLE Voter"

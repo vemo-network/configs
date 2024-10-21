@@ -27,10 +27,12 @@
     "FARMER_CONTRACTS": [
       {
         "address": "",
-        "name":"Vemo Voter"
-
+        "name": "Vemo Voter"
       }
     ]
+  },
+  "WALLET_IMPLEMENTATION": {
+    "contractAddress": "0xDC5c6D0a282dd7de854921bF2b1C8EB42bdDf816"
   },
   "status": 1,
   "tag": 0,
@@ -39,8 +41,7 @@
     "updated_at": "2024-08-07T03:04:02.385Z",
     "is_deleted": 0,
     "id": 21,
-            "name": "NFT"
-,
+    "name": "NFT",
     "symbol": "VSW",
     "chainId": 1,
     "description": null,

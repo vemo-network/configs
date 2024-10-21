@@ -34,7 +34,10 @@
         "address": "0xEc7360041E3d082e5D475B2bE46Ec0e5C205C990",
         "name": "Vemo Voter"
       }
-    ]
+    ],
+    "WALLET_IMPLEMENTATION": {
+      "contractAddress": "0x1DcA42945e9168E68a79dF5aED725a82295b1EF4"
+    }
   },
   "status": 1,
   "tag": 0,

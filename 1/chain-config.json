@@ -31,6 +31,11 @@
     ],
     "DELEGATION_CONTRACTS": [
       {
+        "contractAddress": "0xe3993dCdA85bB5A1Cd47640fB14f8F99fD9f5132",
+        "termAddress": "0x2bAEB210B592008e8b6dF41Ef6b4eEC40714de28",
+        "name": "vePENDLE Voter"
+      },
+      {
         "contractAddress": "0x90ba36e80bEAB9F32b81AE3E37A5Cc89BEfCd118",
         "termAddress": "0x3dA87E0397acca76a7F21C6ceC1E61B576343a31",
         "name": "vePENDLE Voter"

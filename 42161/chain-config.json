@@ -37,6 +37,11 @@
     ],
     "DELEGATION_CONTRACTS": [
       {
+        "contractAddress": "0x0cAcC8B55291aF4F8A8D9e300Fa67c74891D5884",
+        "termAddress": "0x2bAEB210B592008e8b6dF41Ef6b4eEC40714de28",
+        "name": "Full Access"
+      },
+      {
         "contractAddress": "0xe199E125a3cCA16A688D964C555b457Bdf7C6125",
         "termAddress": "0xE5dfC61304fFC39f1B464dd3eF4FCc36679242c7",
         "name": "Full Access"

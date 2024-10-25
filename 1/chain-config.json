@@ -34,11 +34,15 @@
         "address": "",
         "name": "Vemo Voter"
       }
-    ]
+    ],
+    "ZAPPER": {
+      "contractAddress": "0xdF3bD958F81D36Bd196283D7f00f69E62ecb3760"
+    },
+    "WALLET_IMPLEMENTATION": {
+      "contractAddress": "0xDC5c6D0a282dd7de854921bF2b1C8EB42bdDf816"
+    }
   },
-  "WALLET_IMPLEMENTATION": {
-    "contractAddress": "0xDC5c6D0a282dd7de854921bF2b1C8EB42bdDf816"
-  },
+
   "status": 1,
   "tag": 0,
   "collection": {

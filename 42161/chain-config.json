@@ -57,7 +57,10 @@
         "address": "0xcE3bd7c87ab7BbB95B366A6f48AaD55dF4011241",
         "name":"Vemo Voter"
       }
-    ]
+    ],
+    "ZAPPER": {
+      "contractAddress":"0x6358C289E5dCdf80fE1c86bA1A65a5db583aF62B"
+    }
   },
   "status": 1,
   "tag": 0,

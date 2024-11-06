@@ -45,6 +45,9 @@
     },
     "ZAPPER": {
       "contractAddress":"0x6358c289e5dcdf80fe1c86ba1a65a5db583af62b"
+    },
+    "BID_MARKET_POOL": {
+      "contractAddress":"0x6d6f230c21add7e0adfb6839ac2c417ad99aa5c7"
     }
   },
   "status": 1,

@@ -44,10 +44,13 @@
       "contractAddress": "0x1DcA42945e9168E68a79dF5aED725a82295b1EF4"
     },
     "ZAPPER": {
-      "contractAddress":"0x6358c289e5dcdf80fe1c86ba1a65a5db583af62b"
+      "contractAddress": "0x6358c289e5dcdf80fe1c86ba1a65a5db583af62b"
     },
     "BID_MARKET_POOL": {
-      "contractAddress":"0x6d6f230c21add7e0adfb6839ac2c417ad99aa5c7"
+      "contractAddress": "0xC5EFfA74b8993749A7771803766Bec79c389EFb3"
+    },
+    "STRATEGY_MARKET": {
+      "contractAddress": "0xaE700c52E58545983eF4679CC3B0739493770410"
     }
   },
   "status": 1,

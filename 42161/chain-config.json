@@ -57,12 +57,14 @@
         {
           "name": "Pendle",
           "twitter": "https://x.com/pendle_fi",
-          "discord": "https://discord.com/invite/EAujvncY2R"
+          "discord": "https://discord.com/invite/EAujvncY2R",
+          "tokenAddress": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8"
         },
         {
           "name": "GammaSwap",
           "twitter": "https://x.com/gammaswaplabs",
-          "discord": "https://discord.com/invite/gammaswaplabs"
+          "discord": "https://discord.com/invite/gammaswaplabs",
+          "tokenAddress": "0x92c5A56F1233F951f7381E085Ad6a00BC01b67Ea"
         }
       ],
       "MIN_LIQUIDITY_REQUIRED": [

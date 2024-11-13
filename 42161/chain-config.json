@@ -55,7 +55,7 @@
     "FARMER_CONTRACTS": [
       {
         "address": "0xcE3bd7c87ab7BbB95B366A6f48AaD55dF4011241",
-        "name":"Vemo Voter"
+        "name": "Vemo Voter"
       }
     ],
     "ZAPPER": {
@@ -69,8 +69,7 @@
     "updated_at": null,
     "is_deleted": 0,
     "id": 22,
-            "name": "NFT"
-,
+    "name": "NFT",
     "symbol": "VSW",
     "chainId": 42161,
     "description": null,

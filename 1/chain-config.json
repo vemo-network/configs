@@ -48,7 +48,14 @@
       }
     ],
     "ZAPPER": {
+<<<<<<< Updated upstream
       "contractAddress": "0xB018435F7A3427941f34c2590BA6D31545F0890c"
+=======
+      "contractAddress": "0xb018435f7a3427941f34c2590ba6d31545f0890c"
+    },
+    "VEPENDLE": {
+      "contractAddress": "0x4f30A9D41B80ecC5B94306AB4364951AE3170210"
+>>>>>>> Stashed changes
     }
   },
   "status": 1,

@@ -70,11 +70,15 @@
       "MIN_LIQUIDITY_REQUIRED": [
         {
           "tokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-          "minAmount": 0
+          "minAmount": 0,
+          "symbol": "USDT",
+          "decimals": 6
         },
         {
           "tokenAddress": "0xb08D8BeCAB1bf76A9Ce3d2d5fa946F65EC1d3e83",
-          "minAmount": 0
+          "minAmount": 0,
+          "symbol": "GS",
+          "decimals": 18
         }
       ]
     }

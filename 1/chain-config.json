@@ -49,6 +49,9 @@
     ],
     "ZAPPER": {
       "contractAddress": "0xb018435f7a3427941f34c2590ba6d31545f0890c"
+    },
+    "VEPENDLE": {
+      "contractAddress": "0x4f30A9D41B80ecC5B94306AB4364951AE3170210"
     }
   },
   "status": 1,

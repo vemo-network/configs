@@ -5474,6 +5474,26 @@
     }
   },
   "42161": {
+    "gammaswap": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "GS",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xb08D8BeCAB1bf76A9Ce3d2d5fa946F65EC1d3e83",
+      "projectLink": "https://gammaswap.com/",
+      "name":"GammaSwap"
+    },
+    "esgammaswap": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "esGS",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x92c5A56F1233F951f7381E085Ad6a00BC01b67Ea",
+      "projectLink": "https://gammaswap.com/",
+      "name": "Escrowed GS"
+    },
     "weth": {
       "chainId": 42161,
       "decimals": 18,

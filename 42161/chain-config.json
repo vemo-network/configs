@@ -69,11 +69,11 @@
       ],
       "MIN_LIQUIDITY_REQUIRED": [
         {
-          "tokenAddress": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+          "tokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
           "minAmount": 0
         },
         {
-          "tokenAddress": "0x92c5A56F1233F951f7381E085Ad6a00BC01b67Ea",
+          "tokenAddress": "0xb08D8BeCAB1bf76A9Ce3d2d5fa946F65EC1d3e83",
           "minAmount": 0
         }
       ]

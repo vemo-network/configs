@@ -55,11 +55,47 @@
     "FARMER_CONTRACTS": [
       {
         "address": "0xcE3bd7c87ab7BbB95B366A6f48AaD55dF4011241",
-        "name":"Vemo Voter"
+        "name": "Vemo Voter"
       }
     ],
     "ZAPPER": {
       "contractAddress":"0x6358C289E5dCdf80fE1c86bA1A65a5db583aF62B"
+    },
+    "BID_MARKET_POOL": {
+      "contractAddress": "0xC5EFfA74b8993749A7771803766Bec79c389EFb3"
+    },
+    "STRATEGY_MARKET": {
+      "contractAddress": "0x9A05b42d37E6c66EDF94cff69722760A50a8A3c5"
+    },
+    "EXCHANGE": {
+      "PROJECT_DETAIL": [
+        {
+          "name": "Pendle",
+          "twitter": "https://x.com/pendle_fi",
+          "discord": "https://discord.com/invite/EAujvncY2R",
+          "tokenAddress": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8"
+        },
+        {
+          "name": "GammaSwap",
+          "twitter": "https://x.com/gammaswaplabs",
+          "discord": "https://discord.com/invite/gammaswaplabs",
+          "tokenAddress": "0x92c5A56F1233F951f7381E085Ad6a00BC01b67Ea"
+        }
+      ],
+      "MIN_LIQUIDITY_REQUIRED": [
+        {
+          "tokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+          "minAmount": 100000,
+          "symbol": "USDT",
+          "decimals": 6
+        },
+        {
+          "tokenAddress": "0xb08D8BeCAB1bf76A9Ce3d2d5fa946F65EC1d3e83",
+          "minAmount": 0,
+          "symbol": "GS",
+          "decimals": 18
+        }
+      ]
     }
   },
   "status": 1,
@@ -69,8 +105,7 @@
     "updated_at": null,
     "is_deleted": 0,
     "id": 22,
-            "name": "NFT"
-,
+    "name": "NFT",
     "symbol": "VSW",
     "chainId": 42161,
     "description": null,

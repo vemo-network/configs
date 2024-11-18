@@ -5474,6 +5474,16 @@
     }
   },
   "42161": {
+    "pepe": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "PEPE",
+      "isNative": false,
+      "isToken": true,
+      "name": "Pepe",
+      "address": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
+      "projectLink": "https://www.pepe.vip/"
+    },
     "usd0liquidbond": {
       "chainId": 42161,
       "decimals": 18,

@@ -5474,6 +5474,26 @@
     }
   },
   "42161": {
+    "usd0liquidbond": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "USD0++",
+      "isNative": false,
+      "isToken": true,
+      "name": "USD0 Liquid Bond",
+      "address": "0x2B65F9d2e4B84a2dF6ff0525741b75d1276a9C2F",
+      "projectLink": "https://usual.money/"
+    },
+    "wrappedeeth": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "weETH",
+      "isNative": false,
+      "isToken": true,
+      "name": "Wrapped eETH",
+      "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
+      "projectLink": "https://www.ether.fi/"
+    },
     "gammaswap": {
       "chainId": 42161,
       "decimals": 18,
@@ -5482,7 +5502,7 @@
       "isToken": true,
       "address": "0xb08D8BeCAB1bf76A9Ce3d2d5fa946F65EC1d3e83",
       "projectLink": "https://gammaswap.com/",
-      "name":"GammaSwap"
+      "name": "GammaSwap"
     },
     "esgammaswap": {
       "chainId": 42161,

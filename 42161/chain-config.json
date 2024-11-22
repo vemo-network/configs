@@ -83,6 +83,9 @@
           "decimals": 18
         }
       ]
+    },
+    "GAMMA_ZAPPER": {
+      "contractAddress":"0x2d46D9D1E0d5a6e20536b7C087780c232701c9fc"
     }
   },
   "status": 1,

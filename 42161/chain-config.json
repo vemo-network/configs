@@ -85,11 +85,21 @@
       ]
     },
     "GAMMA_ZAPPER": {
-      "contractAddress":"0x30817A2509F2E2e657d5d85AC1E8481c97CD3102",
+      "contractAddress": "0x30817A2509F2E2e657d5d85AC1E8481c97CD3102",
       "gammaRebalancer": "0xA2Bf3182f423414651fb24E3025684e0c5f78627",
-      "v3NonfungiblePositionManager":"0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
-      "v3SwapRouter":"0xE592427A0AEce92De3Edee1F18E0157C05861564",
-      "gammaPositionManager":"0x3b72616376652CC82F17Dd7A9b58F71cDB3B98b0"
+      "v3NonfungiblePositionManager": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+      "v3SwapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+      "gammaPositionManager": "0x3b72616376652CC82F17Dd7A9b58F71cDB3B98b0",
+      "v3Pool": [
+        {
+          "id": "0xd8b65a151edae186e3db1ca136555ea495e2a24b",
+          "pool":"0x223292964Fd10E82867D9E6c99cE62106426f204"
+        },
+        {
+          "id": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d",
+          "pool":"0xC6962004f452bE9203591991D15f6b388e09E8D0"
+        }
+      ]
     }
   },
   "status": 1,

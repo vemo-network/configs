@@ -90,6 +90,16 @@
       "v3NonfungiblePositionManager": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
       "v3SwapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
       "gammaPositionManager": "0x3b72616376652CC82F17Dd7A9b58F71cDB3B98b0",
+      "pancake": {
+        "v3NonfungiblePositionManager": "0x46A15B0b27311cedF172AB29E4f4766fbE7F4364",
+        "v3Pool": [
+          {
+            "id": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d",
+            "pool": "0x7fCDC35463E3770c2fB992716Cd070B63540b947",
+            "router": "0x32226588378236Fd0c7c4053999F88aC0e5cAc77"
+          }
+        ]
+      },
       "v3Pool": [
         {
           "id": "0xd8b65a151edae186e3db1ca136555ea495e2a24b",

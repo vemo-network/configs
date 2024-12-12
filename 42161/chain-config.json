@@ -138,6 +138,13 @@
   "logConfig": {
     "fromBlock": 222732688,
     "url": "https://api.arbiscan.io/api",
-    "rpc": "https://arb1.arbitrum.io/rpc"
+    "rpc": "https://arb1.arbitrum.io/rpc",
+    "apiKeys": [
+      "423T4TK4KJT9ZKGGQF4YUBWSB4CHBZ1QJU",
+      "5ZHVYU1JD9PJKIS36UX78U4RJWGI9D9Z1R",
+      "TX8EFMSTAIZ5T81KQ3MKNZTHUK58JV9152"
+    ],
+    "rateLimitCount": 5,
+    "rateLimitDuration": 1000
   }
 }

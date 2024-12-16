@@ -99,20 +99,15 @@
             "router": "0x32226588378236Fd0c7c4053999F88aC0e5cAc77"
           }
         ],
-        "v3SwapRouter":"0x32226588378236Fd0c7c4053999F88aC0e5cAc77",
-        "contractAddress":"0xa310ee250A92814932Ad19451b8B138a5b7F71e5"
-
+        "v3SwapRouter": "0x32226588378236Fd0c7c4053999F88aC0e5cAc77",
+        "contractAddress": "0x710be4F157A2b06F75AD929a4558390779f8DE31"
       },
       "v3Pool": [
         {
-          "id": "0xd8b65a151edae186e3db1ca136555ea495e2a24b",
-          "pool": "0x223292964Fd10E82867D9E6c99cE62106426f204",
-          "router": "0x5FbE219e88f6c6F214Ce6f5B1fcAa0294F31aE1b"
-        },
-        {
           "id": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d",
           "pool": "0xC6962004f452bE9203591991D15f6b388e09E8D0",
-          "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564"
+          "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+          "zapper": "0x710be4F157A2b06F75AD929a4558390779f8DE31"
         }
       ]
     }

@@ -98,7 +98,10 @@
             "pool": "0x7fCDC35463E3770c2fB992716Cd070B63540b947",
             "router": "0x32226588378236Fd0c7c4053999F88aC0e5cAc77"
           }
-        ]
+        ],
+        "v3SwapRouter":"0x32226588378236Fd0c7c4053999F88aC0e5cAc77",
+        "contractAddress":"0xa310ee250A92814932Ad19451b8B138a5b7F71e5"
+
       },
       "v3Pool": [
         {

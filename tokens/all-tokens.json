@@ -5474,6 +5474,16 @@
     }
   },
   "42161": {
+    "ve-fctr": {
+      "chainId": 1,
+      "decimals": 18,
+      "symbol": "VE_FCTR",
+      "name": "veFCTR",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x43D75A4248e8fDBd63778Ea449349173697A7050",
+      "projectLink": "https://factor.fi/"
+    },
     "gammaswap": {
       "chainId": 42161,
       "decimals": 18,

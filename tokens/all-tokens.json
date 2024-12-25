@@ -376,7 +376,8 @@
       "isNative": false,
       "isToken": true,
       "address": "0x808507121B80c02388fAd14726482e061B8da827",
-      "projectLink": "https://www.pendle.finance/"
+      "projectLink": "https://www.pendle.finance/",
+      "warningTbaDepositMessage":"Depositing PENDLE alone won't do anything, Please use Zap > Pendle feature, or Delegate your TBA to Vemo Voter so we can help you doing so."
     },
     "wld": {
       "chainId": 1,

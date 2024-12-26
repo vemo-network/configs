@@ -5482,7 +5482,7 @@
       "isToken": true,
       "address": "0xb08D8BeCAB1bf76A9Ce3d2d5fa946F65EC1d3e83",
       "projectLink": "https://gammaswap.com/",
-      "name":"GammaSwap"
+      "name": "GammaSwap"
     },
     "esgammaswap": {
       "chainId": 42161,
@@ -5630,7 +5630,8 @@
       "isNative": false,
       "isToken": true,
       "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
-      "projectLink": "https://www.pendle.finance/"
+      "projectLink": "https://www.pendle.finance/",
+      "warningTbaDepositMessage": "Depositing PENDLE alone won't achieve anything. Please use the Zap > Pendle feature or delegate your TBA to Vemo Voter so we can assist you"
     },
     "mpendle": {
       "chainId": 42161,

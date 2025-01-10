@@ -59,7 +59,7 @@
       }
     ],
     "ZAPPER": {
-      "contractAddress":"0x6358C289E5dCdf80fE1c86bA1A65a5db583aF62B"
+      "contractAddress": "0x6358C289E5dCdf80fE1c86bA1A65a5db583aF62B"
     },
     "BID_MARKET_POOL": {
       "contractAddress": "0xC5EFfA74b8993749A7771803766Bec79c389EFb3"
@@ -96,6 +96,34 @@
           "decimals": 18
         }
       ]
+    },
+    "GAMMA_ZAPPER": {
+      "contractAddress": "0x30817A2509F2E2e657d5d85AC1E8481c97CD3102",
+      "gammaRebalancer": "0xA2Bf3182f423414651fb24E3025684e0c5f78627",
+      "v3NonfungiblePositionManager": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+      "v3SwapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+      "gammaPositionManager": "0x3b72616376652CC82F17Dd7A9b58F71cDB3B98b0",
+      "pancake": {
+        "v3NonfungiblePositionManager": "0x46A15B0b27311cedF172AB29E4f4766fbE7F4364",
+        "v3Pool": [
+          {
+            "id": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d",
+            "pool": "0x7fCDC35463E3770c2fB992716Cd070B63540b947",
+            "router": "0x32226588378236Fd0c7c4053999F88aC0e5cAc77"
+          }
+        ],
+        "v3SwapRouter": "0x32226588378236Fd0c7c4053999F88aC0e5cAc77",
+        "contractAddress": "0xC03acb7183aBC85BC1b46b57f2b81B065952E199",
+        "utr": "0x69c4620b62D99f524c5B4dE45442FE2D7dD59576"
+      },
+      "v3Pool": [
+        {
+          "id": "0x04d24dbdd9ea6e8af5b5eb0126797da27498df1d",
+          "pool": "0xC6962004f452bE9203591991D15f6b388e09E8D0",
+          "router": "0xE592427A0AEce92De3Edee1F18E0157C05861564",
+          "zapper": "0x710be4F157A2b06F75AD929a4558390779f8DE31"
+        }
+      ]
     }
   },
   "status": 1,
@@ -122,6 +150,13 @@
   "logConfig": {
     "fromBlock": 222732688,
     "url": "https://api.arbiscan.io/api",
-    "rpc": "https://arb1.arbitrum.io/rpc"
+    "rpc": "https://arb1.arbitrum.io/rpc",
+    "apiKeys": [
+      "423T4TK4KJT9ZKGGQF4YUBWSB4CHBZ1QJU",
+      "5ZHVYU1JD9PJKIS36UX78U4RJWGI9D9Z1R",
+      "TX8EFMSTAIZ5T81KQ3MKNZTHUK58JV9152"
+    ],
+    "rateLimitCount": 5,
+    "rateLimitDuration": 1000
   }
 }

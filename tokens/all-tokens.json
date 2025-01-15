@@ -5475,6 +5475,16 @@
     }
   },
   "42161": {
+    "weethusdcgslp": {
+      "chainId": 42161,
+      "decimals": 18,
+      "symbol": "weETH/USDC GSLP",
+      "isNative": false,
+      "isToken": true,
+      "name": "weETH/USDC GSLP",
+      "address": "0xd63c125b169bc5655F9fDEFB47c7D33e622416c7",
+      "projectLink": "https://app.gammaswap.com/"
+    },
     "pepe": {
       "chainId": 42161,
       "decimals": 18,

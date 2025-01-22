@@ -9,7 +9,7 @@
     "CHAIN_ICON": "https://static3.nft2scan.com/config/bnb-white.svg",
     "CHAIN_NAME": "BERA Chain",
     "PROVIDER_URL": "https://bartio.rpc.berachain.com",
-    "WALLET_FACTORY": "0x1848fbDD107b697C927b9D7fCBf918fede95f2B9",
+    "WALLET_FACTORY": "0x96EBfCE237419FEc8fbcF562c7bABfd3319b9cFf",
     "CHAIN_DARK_ICON": "https://static3.nft2scan.com/config/bnb-black.svg",
     "NATIVE_CURRENCY": {
       "name": "BERA Chain",

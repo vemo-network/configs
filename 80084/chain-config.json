@@ -40,7 +40,7 @@
       }
     ],
     "WALLET_IMPLEMENTATION": {
-      "contractAddress": "0x1938f2552278b02013FB21d58a09B4aAf33cE538",
+      "contractAddress": "0x530eF398bC500CB603512d8F5bD474253db0D111",
       "forceUpdate": false,
       "upgradeDescription": "This version introduces enhanced security with improved input validation and role-based access controls. Gas usage is optimized, reducing transaction costs"
     },

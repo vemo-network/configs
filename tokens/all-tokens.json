@@ -1,4 +1,46 @@
 {
+  "80084": {
+    "bgt": {
+      "chainId": 80084,
+      "decimals": 18,
+      "symbol": "BGT",
+      "name": "Bera Governance Token",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xbDa130737BDd9618301681329bF2e46A016ff9Ad",
+      "projectLink": "https://www.berachain.com/"
+    },
+    "honey": {
+      "chainId": 80084,
+      "decimals": 18,
+      "symbol": "HONEY",
+      "name": "Honey",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x0E4aaF1351de4c0264C5c7056Ef3777b41BD8e03",
+      "projectLink": "https://bartio.honey.berachain.com/"
+    },
+    "honey-wbera-lp": {
+      "chainId": 80084,
+      "decimals": 18,
+      "symbol": "HONEY-WBERA-LP",
+      "name": "HONEY-WBERA-LP",
+      "isNative": false,
+      "isToken": true,
+      "address": "0xd28d852cbcc68DCEC922f6d5C7a8185dBaa104B7",
+      "projectLink": "https://bartio.bex.berachain.com/"
+    },
+    "wbera": {
+      "chainId": 80084,
+      "decimals": 18,
+      "symbol": "WBERA",
+      "name": "WBERA",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8",
+      "projectLink": "https://bartio.bex.berachain.com/"
+    }
+  },
   "1": {
     "ve-pendle": {
       "chainId": 1,

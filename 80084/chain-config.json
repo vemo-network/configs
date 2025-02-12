@@ -136,6 +136,7 @@
   "logConfig": {
     "fromBlock": 9601327,
     "url": "https://api.routescan.io/v2/network/testnet/evm/80084/etherscan/api",
-    "rpc": "https://bartio.rpc.berachain.com"
+    "rpc": "https://bartio.rpc.berachain.com",
+    "version": "1.0.0"
   }
 }

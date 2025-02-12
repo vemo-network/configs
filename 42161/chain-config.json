@@ -101,7 +101,7 @@
         ],
         "v3SwapRouter": "0x32226588378236Fd0c7c4053999F88aC0e5cAc77",
         "contractAddress": "0xC03acb7183aBC85BC1b46b57f2b81B065952E199",
-        "utr":"0x69c4620b62D99f524c5B4dE45442FE2D7dD59576"
+        "utr": "0x69c4620b62D99f524c5B4dE45442FE2D7dD59576"
       },
       "v3Pool": [
         {
@@ -144,6 +144,7 @@
       "TX8EFMSTAIZ5T81KQ3MKNZTHUK58JV9152"
     ],
     "rateLimitCount": 5,
-    "rateLimitDuration": 1000
+    "rateLimitDuration": 1000,
+    "version": "1.0.0"
   }
 }

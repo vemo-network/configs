@@ -148,12 +148,12 @@
   },
   "descriptors": [
     {
-      "BGT": {
-        "address": "0x0593AE9d300CBBD0704E1CCC56f317d91223DDBc"
-      },
-      "VEMO": {
-        "address": "0x7A8Cc766BB50715eabc12282791633Ca732E0cFB"
-      }
+      "name": "BGT",
+      "address": "0x0593AE9d300CBBD0704E1CCC56f317d91223DDBc"
+    },
+    {
+      "name": "VEMO",
+      "address": "0x7A8Cc766BB50715eabc12282791633Ca732E0cFB"
     }
   ]
 }

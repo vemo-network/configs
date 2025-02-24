@@ -81,7 +81,10 @@
           "symbol": "GS",
           "decimals": 18
         }
-      ]
+      ],
+      "DESCRIPTOR": {
+        "contractAddress": "0x87Cbf9859c266e3FB6e91d6C79C99EEF54190f9c"
+      }
     },
     "GAMMA_ZAPPER": {
       "contractAddress": "0x30817A2509F2E2e657d5d85AC1E8481c97CD3102",

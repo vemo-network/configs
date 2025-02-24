@@ -100,7 +100,7 @@
         ],
         "v3SwapRouter": "0x32226588378236Fd0c7c4053999F88aC0e5cAc77",
         "contractAddress": "0xC03acb7183aBC85BC1b46b57f2b81B065952E199",
-        "utr":"0x69c4620b62D99f524c5B4dE45442FE2D7dD59576"
+        "utr": "0x69c4620b62D99f524c5B4dE45442FE2D7dD59576"
       },
       "v3Pool": [
         {
@@ -145,5 +145,15 @@
     "rateLimitCount": 5,
     "rateLimitDuration": 1000,
     "version": "1.0.0"
-  }
+  },
+  "descriptors": [
+    {
+      "BGT": {
+        "address": "0x0593AE9d300CBBD0704E1CCC56f317d91223DDBc"
+      },
+      "VEMO": {
+        "address": "0x7A8Cc766BB50715eabc12282791633Ca732E0cFB"
+      }
+    }
+  ]
 }

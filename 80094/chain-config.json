@@ -110,6 +110,9 @@
           "zapper": "0x710be4F157A2b06F75AD929a4558390779f8DE31"
         }
       ]
+    },
+    "DESCRIPTOR": {
+      "contractAddress": "0x87Cbf9859c266e3FB6e91d6C79C99EEF54190f9c"
     }
   },
   "status": 1,
@@ -144,6 +147,6 @@
     ],
     "rateLimitCount": 5,
     "rateLimitDuration": 1000,
-    "version":"1.0.0"
+    "version": "1.0.0"
   }
 }

@@ -149,7 +149,7 @@
   },
   "logConfig": {
     "fromBlock": 222732688,
-    "url": "https://api.arbiscan.io/api",
+    "url": "https://api.etherscan.io/v2/api?chainid=42161",
     "rpc": "https://arb1.arbitrum.io/rpc",
     "apiKeys": [
       "423T4TK4KJT9ZKGGQF4YUBWSB4CHBZ1QJU",

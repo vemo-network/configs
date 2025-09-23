@@ -67,7 +67,7 @@
   },
   "logConfig": {
     "fromBlock": 40000000,
-    "url": "https://api.bscscan.com/api",
+    "url": "https://api.etherscan.io/v2/api?chainid=56",
     "rpc": "https://rpc.ankr.com/bsc",
     "apiKeys": [
       "AGDY1URS8EMBGZDTY8Z5XCAHN7SIDNT24M",

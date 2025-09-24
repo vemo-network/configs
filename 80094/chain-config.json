@@ -141,9 +141,9 @@
     "url": "https://api.etherscan.io/v2/api?chainid=80094",
     "rpc": "https://rpc.berachain.com",
     "apiKeys": [
-      "5FRBDD1RFTTHVYNJ26CQKUQNDSYW2GSAK9",
-      "FJPG5IH4NVREWMEJVHZIJKW23DKN374FTK",
-      "PJKZ55Q75ST2RJ1ESIVHU4PJVSJ25YNC95"
+      "2F5PIEZGS2MZXUGXTX5RXB5525CAUWQ36H",
+      "8X7299SJZZDWYKIPAB35TFAVKFK2NBPVKQ",
+      "9GERFFH5E95GD1V4ABNANSMBFTPRVNBG98"
     ],
     "rateLimitCount": 5,
     "rateLimitDuration": 1000,

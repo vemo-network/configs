@@ -152,9 +152,9 @@
     "url": "https://api.etherscan.io/v2/api?chainid=42161",
     "rpc": "https://arb1.arbitrum.io/rpc",
     "apiKeys": [
-      "423T4TK4KJT9ZKGGQF4YUBWSB4CHBZ1QJU",
-      "5ZHVYU1JD9PJKIS36UX78U4RJWGI9D9Z1R",
-      "TX8EFMSTAIZ5T81KQ3MKNZTHUK58JV9152"
+      "2F5PIEZGS2MZXUGXTX5RXB5525CAUWQ36H",
+      "8X7299SJZZDWYKIPAB35TFAVKFK2NBPVKQ",
+      "9GERFFH5E95GD1V4ABNANSMBFTPRVNBG98"
     ],
     "rateLimitCount": 5,
     "rateLimitDuration": 1000,

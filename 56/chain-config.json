@@ -70,9 +70,9 @@
     "url": "https://api.etherscan.io/v2/api?chainid=56",
     "rpc": "https://rpc.ankr.com/bsc",
     "apiKeys": [
-      "AGDY1URS8EMBGZDTY8Z5XCAHN7SIDNT24M",
-      "C66RIA1Q7ANCNN64EDVN17CBCQ6XNI3XX2",
-      "WIJU37BQD53QZFT9J1MID6TUEU543N7QEK"
+      "2F5PIEZGS2MZXUGXTX5RXB5525CAUWQ36H",
+      "8X7299SJZZDWYKIPAB35TFAVKFK2NBPVKQ",
+      "9GERFFH5E95GD1V4ABNANSMBFTPRVNBG98"
     ],
     "rateLimitCount": 5,
     "rateLimitDuration": 1000

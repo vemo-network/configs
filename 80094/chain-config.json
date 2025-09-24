@@ -138,7 +138,7 @@
   },
   "logConfig": {
     "fromBlock": 990281,
-    "url": "https://api.berascan.com/api",
+    "url": "https://api.etherscan.io/v2/api?chainid=80094",
     "rpc": "https://rpc.berachain.com",
     "apiKeys": [
       "5FRBDD1RFTTHVYNJ26CQKUQNDSYW2GSAK9",
